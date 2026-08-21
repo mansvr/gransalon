@@ -16,7 +16,7 @@ import {
 import { directoryParsers } from "@/lib/search-params";
 import { waClaim } from "@/lib/whatsapp";
 
-const PAGE_SIZE = 21;
+const PAGE_SIZE = 18;
 
 function HallGlyph({ halls }: { halls: Exhibitor["halls"] }) {
   const label = halls[0] ?? "—";

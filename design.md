@@ -38,5 +38,5 @@ to it. Amend intentionally — the file is the rule.
 ## Notes
 - B5 DNA is framing only (2fr/1fr plate). Not Playfair, not terracotta, not Geist.
 - Mast is two lines: Barlow kicker (event · venue · city) over Oswald title “Guía Independiente”. No count in the header.
-- Directory chips: cities first, then tags, halls last. Head shows the count. First page is 21 cards, then Ver más in batches of 21.
+- Directory chips: cities first, then tags, halls last. Head shows the count. First page is 18 cards, then Ver más in batches of 18.
 - Chat Phase A is an iframe to vpandco.co/embed/chat — do not restyle VP chrome here.
