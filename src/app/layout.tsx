@@ -1,28 +1,27 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Mono, Libre_Baskerville, Outfit } from "next/font/google";
+import { Barlow, Inconsolata, Oswald } from "next/font/google";
 import { NuqsAdapter } from "nuqs/adapters/next/app";
 
 import { cn } from "@/lib/utils";
 
 import "./globals.css";
 
-const outfit = Outfit({
+const oswald = Oswald({
   subsets: ["latin", "latin-ext"],
-  variable: "--font-outfit",
+  variable: "--font-oswald",
   display: "swap",
 });
 
-const libreBaskerville = Libre_Baskerville({
+const barlow = Barlow({
   subsets: ["latin", "latin-ext"],
-  weight: ["400", "700"],
-  variable: "--font-libre-baskerville",
+  weight: ["400", "500", "600"],
+  variable: "--font-barlow",
   display: "swap",
 });
 
-const ibmPlexMono = IBM_Plex_Mono({
+const inconsolata = Inconsolata({
   subsets: ["latin", "latin-ext"],
-  weight: ["400", "500"],
-  variable: "--font-ibm-plex-mono",
+  variable: "--font-inconsolata",
   display: "swap",
 });
 
@@ -40,11 +39,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="es"
-      className={cn(
-        outfit.variable,
-        libreBaskerville.variable,
-        ibmPlexMono.variable,
-      )}
+      className={cn(oswald.variable, barlow.variable, inconsolata.variable)}
     >
       <body>
         <NuqsAdapter>{children}</NuqsAdapter>

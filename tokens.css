@@ -1,8 +1,8 @@
 /* Hallmark · tokens · Gran Salón guía independiente
  * theme: custom · vibe: "ink on paper, hall index, no varnish"
  * paper: oklch(96.5% 0.006 250) · accent: oklch(20% 0.012 250)
- * display: Outfit · body: Libre Baskerville · outlier: IBM Plex Mono
- * trio: @fonttrio/architect · axes: light / geometric-sans / neutral
+ * display: Oswald · body: Barlow · outlier: Inconsolata
+ * trio: @fonttrio/poster · axes: light / condensed-sans / commanding
  */
 :root {
   --color-paper: oklch(96.5% 0.006 250);
@@ -18,11 +18,11 @@
   --color-accent-ink: oklch(96.5% 0.006 250);
   --color-focus: oklch(28% 0.05 250);
 
-  --font-heading: var(--font-outfit), "Outfit", "Helvetica Neue", sans-serif;
-  --font-display: var(--font-outfit), "Outfit", "Helvetica Neue", sans-serif;
-  --font-body: var(--font-libre-baskerville), "Libre Baskerville", Georgia, serif;
-  --font-mono: var(--font-ibm-plex-mono), "IBM Plex Mono", ui-monospace, monospace;
-  --font-outlier: var(--font-ibm-plex-mono), "IBM Plex Mono", ui-monospace, monospace;
+  --font-heading: var(--font-oswald), "Oswald", "Arial Narrow", sans-serif;
+  --font-display: var(--font-oswald), "Oswald", "Arial Narrow", sans-serif;
+  --font-body: var(--font-barlow), "Barlow", "Helvetica Neue", sans-serif;
+  --font-mono: var(--font-inconsolata), Inconsolata, ui-monospace, monospace;
+  --font-outlier: var(--font-inconsolata), Inconsolata, ui-monospace, monospace;
 
   --space-3xs: 0.125rem;
   --space-2xs: 0.25rem;
