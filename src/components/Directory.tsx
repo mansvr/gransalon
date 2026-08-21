@@ -16,6 +16,8 @@ import {
 import { directoryParsers } from "@/lib/search-params";
 import { waClaim } from "@/lib/whatsapp";
 
+const PAGE_SIZE = 21;
+
 function HallGlyph({ halls }: { halls: Exhibitor["halls"] }) {
   const label = halls[0] ?? "—";
   return (
@@ -83,7 +85,7 @@ function ExhibitorCard({ row }: { row: Exhibitor }) {
 
 export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
   const [filters, setFilters] = useQueryStates(directoryParsers);
-  const [expanded, setExpanded] = useState(false);
+  const [shown, setShown] = useState(PAGE_SIZE);
   const results = filterExhibitors(exhibitors, filters);
   const active =
     Boolean(filters.q) ||
@@ -93,11 +95,10 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
   const filterKey = `${filters.q}|${filters.hall}|${filters.city}|${filters.tag}|${filters.sort}`;
 
   useEffect(() => {
-    setExpanded(false);
+    setShown(PAGE_SIZE);
   }, [filterKey]);
 
-  const half = Math.ceil(results.length / 2);
-  const visible = expanded ? results : results.slice(0, half);
+  const visible = results.slice(0, shown);
   const remaining = results.length - visible.length;
 
   function toggleHall(value: (typeof HALL_CHIPS)[number]["value"]) {
@@ -211,7 +212,7 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
               <button
                 type="button"
                 className="more-btn"
-                onClick={() => setExpanded(true)}
+                onClick={() => setShown((n) => n + PAGE_SIZE)}
               >
                 Ver más
               </button>
