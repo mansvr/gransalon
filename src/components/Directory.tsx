@@ -115,11 +115,9 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
     <section className="directory" aria-label="Directorio de expositores">
       <div className="directory-head">
         <h2>Directorio</h2>
-        {active ? (
-          <p className="result-count">
-            <strong>{results.length}</strong> expositores
-          </p>
-        ) : null}
+        <p className="result-count">
+          <strong>{results.length}</strong> expositores
+        </p>
       </div>
 
       <div className="chip-row" role="toolbar" aria-label="Filtros">
