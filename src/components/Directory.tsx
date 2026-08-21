@@ -3,8 +3,6 @@
 import { useQueryStates } from "nuqs";
 import { useEffect, useState } from "react";
 
-const PAGE_SIZE = 24;
-
 import {
   CITY_CHIPS,
   type Exhibitor,
@@ -85,7 +83,7 @@ function ExhibitorCard({ row }: { row: Exhibitor }) {
 
 export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
   const [filters, setFilters] = useQueryStates(directoryParsers);
-  const [shown, setShown] = useState(PAGE_SIZE);
+  const [expanded, setExpanded] = useState(false);
   const results = filterExhibitors(exhibitors, filters);
   const active =
     Boolean(filters.q) ||
@@ -95,10 +93,11 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
   const filterKey = `${filters.q}|${filters.hall}|${filters.city}|${filters.tag}|${filters.sort}`;
 
   useEffect(() => {
-    setShown(PAGE_SIZE);
+    setExpanded(false);
   }, [filterKey]);
 
-  const visible = results.slice(0, shown);
+  const half = Math.ceil(results.length / 2);
+  const visible = expanded ? results : results.slice(0, half);
   const remaining = results.length - visible.length;
 
   function toggleHall(value: (typeof HALL_CHIPS)[number]["value"]) {
@@ -212,7 +211,7 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
               <button
                 type="button"
                 className="more-btn"
-                onClick={() => setShown((n) => n + PAGE_SIZE)}
+                onClick={() => setExpanded(true)}
               >
                 Ver más
               </button>

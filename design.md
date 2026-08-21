@@ -38,5 +38,5 @@ to it. Amend intentionally — the file is the rule.
 ## Notes
 - B5 DNA is framing only (2fr/1fr plate). Not Playfair, not terracotta, not Geist.
 - Mast is two lines: serif kicker (event · venue · city) over Outfit title “Guía Independiente”. No count in the header.
-- Directory chips: cities first, then tags, halls last. Head shows the count. Todos opens a first page of 24 with Ver más — do not dump the full catalog.
+- Directory chips: cities first, then tags, halls last. Head shows the count. Todos shows half the cards, then Ver más for the rest.
 - Chat Phase A is an iframe to vpandco.co/embed/chat — do not restyle VP chrome here.
