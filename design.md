@@ -7,10 +7,10 @@ to it. Amend intentionally — the file is the rule.
 - Genre · editorial
 - Macrostructure · Catalogue (B5 2+1 plate above an equal-weight index)
 - Theme · custom (vibe: "ink on paper, hall index, no varnish")
-- Axes · light / slab-serif / neutral
-- Nav · N9 Edge-aligned
+- Axes · light / geometric-sans / neutral
+- Nav · none (directory is the page; Hablar con la guía lives in the footer)
 - Footer · Ft2 Inline-rule
-- Type · [Fonttrio bitter-lora](https://github.com/kapishdima/fonttrio) — Bitter + Lora + Source Code Pro
+- Type · [Fonttrio architect](https://github.com/kapishdima/fonttrio) — Outfit + Libre Baskerville + IBM Plex Mono
 
 ## Tokens (canonical · `tokens.css` is the source of truth)
 ```css
@@ -23,9 +23,9 @@ to it. Amend intentionally — the file is the rule.
   --color-accent: oklch(20% 0.012 250);
   --color-accent-ink: oklch(96.5% 0.006 250);
   --color-focus: oklch(28% 0.05 250);
-  --font-display: "Bitter", "Iowan Old Style", Georgia, serif;
-  --font-body: "Lora", Georgia, serif;
-  --font-outlier: "Source Code Pro", ui-monospace, monospace;
+  --font-display: "Outfit", "Helvetica Neue", sans-serif;
+  --font-body: "Libre Baskerville", Georgia, serif;
+  --font-outlier: "IBM Plex Mono", ui-monospace, monospace;
   --hero-media-h: min(62vh, 640px);
 }
 ```

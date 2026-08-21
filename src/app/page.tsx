@@ -14,15 +14,6 @@ export default function Home() {
 
   return (
     <>
-      <header className="nav-edge">
-        <a className="wordmark" href="/">
-          gransalon.co
-        </a>
-        <a className="cta" href={WA_GUIA}>
-          Hablar con la guía
-        </a>
-      </header>
-
       <div className="mast">
         <div className="mast-copy">
           <p className="mast-eyebrow">
@@ -30,9 +21,7 @@ export default function Home() {
           </p>
           <h1 className="mast-headline">Encuentra el stand</h1>
         </div>
-        <p className="mast-count">
-          {total} expositores
-        </p>
+        <p className="mast-count">{total} expositores</p>
       </div>
 
       <HeroPlate />
@@ -52,6 +41,8 @@ export default function Home() {
       <footer className="foot-line">
         <p>{DISCLAIMER}</p>
         <p className="foot-meta">
+          <a href={WA_GUIA}>Hablar con la guía</a>
+          <span aria-hidden="true"> · </span>
           <a href="/privacidad">Privacidad</a>
           <span aria-hidden="true"> · </span>
           <span>Una capa de Mirador</span>

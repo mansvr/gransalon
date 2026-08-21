@@ -7,7 +7,7 @@ Not Corferias. Not the Lonja. Not VP & Co. listings.
 
 ## Stack
 
-Next.js App Router · React 19 · Tailwind v4 · [nuqs](https://nuqs.dev/) · [shadcn](https://ui.shadcn.com/) · [Fonttrio bitter-lora](https://github.com/kapishdima/fonttrio) (Bitter + Lora + Source Code Pro) · static catalog JSON · Vercel.
+Next.js App Router · React 19 · Tailwind v4 · [nuqs](https://nuqs.dev/) · [shadcn](https://ui.shadcn.com/) · [Fonttrio architect](https://github.com/kapishdima/fonttrio) (Outfit + Libre Baskerville + IBM Plex Mono) · static catalog JSON · Vercel.
 
 ## Local
 
