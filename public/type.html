@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Type gallery · Bold + Creative · gransalon.co</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Archivo:wght@400;600&family=Barlow:wght@400;500&family=Bricolage+Grotesque:wght@500;700&family=DM+Sans:wght@400;500&family=Figtree:wght@400;500&family=Fira+Code:wght@400;500&family=Fjalla+One&family=IBM+Plex+Mono:wght@400;500&family=Inconsolata:wght@400;500&family=JetBrains+Mono:wght@400;500&family=Josefin+Sans:wght@300;400&family=Jost:wght@500;600&family=Karla:wght@400;500&family=Libre+Baskerville:wght@400&family=Montserrat:wght@600;700&family=Oswald:wght@500;600&family=Outfit:wght@400;600&family=Public+Sans:wght@400;500&family=Roboto+Mono:wght@400;500&family=Rubik:wght@400;500&family=Schibsted+Grotesk:wght@500;600&family=Sora:wght@500;600&family=Source+Code+Pro:wght@400;500&family=Space+Grotesk:wght@500;600&family=Work+Sans:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --paper: oklch(96.5% 0.006 250);
+      --paper-2: oklch(93.8% 0.007 250);
+      --ink: oklch(20% 0.012 250);
+      --ink-2: oklch(42% 0.010 250);
+      --rule: oklch(82% 0.008 250);
+      --gutter: clamp(1rem, 3vw, 2.5rem);
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: var(--paper); color: var(--ink); }
+    body { font: 16px/1.5 Georgia, serif; }
+    a { color: inherit; }
+    .wrap { padding: 2rem var(--gutter) 4rem; max-width: 72rem; margin: 0 auto; }
+    .intro h1 {
+      margin: 0 0 0.4rem;
+      font: 600 1.75rem/1.15 Outfit, sans-serif;
+      letter-spacing: -0.03em;
+    }
+    .intro p { margin: 0 0 0.5rem; max-width: 62ch; color: var(--ink-2); }
+    .intro code {
+      font: 500 0.75rem/1 IBM Plex Mono, ui-monospace, monospace;
+      letter-spacing: 0.02em;
+    }
+    .toc { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1.25rem 0 2.5rem; }
+    .toc a {
+      font: 500 0.68rem/1 IBM Plex Mono, ui-monospace, monospace;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border: 1px solid var(--rule);
+      padding: 0.4rem 0.6rem;
+      text-decoration: none;
+    }
+    .toc a:hover { border-color: var(--ink); }
+    h2.group {
+      margin: 2.5rem 0 1rem;
+      font: 500 0.72rem/1 IBM Plex Mono, ui-monospace, monospace;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--ink-2);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 28rem), 1fr));
+      gap: 1.25rem;
+    }
+    article.pair {
+      border: 1px solid var(--rule);
+      background: var(--paper);
+      min-width: 0;
+    }
+    article.pair.is-live { outline: 2px solid var(--ink); outline-offset: -1px; }
+    .pair-meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.75rem;
+      align-items: baseline;
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid var(--rule);
+      background: var(--paper-2);
+    }
+    .pair-meta h3 {
+      margin: 0;
+      font: 600 0.95rem/1.2 Outfit, sans-serif;
+      letter-spacing: -0.02em;
+    }
+    .pair-meta p { margin: 0.2rem 0 0; font-size: 0.75rem; color: var(--ink-2); }
+    .pair-meta code {
+      font: 400 0.65rem/1.4 IBM Plex Mono, ui-monospace, monospace;
+      color: var(--ink-2);
+    }
+    .site {
+      --h: Outfit, sans-serif;
+      --b: "Libre Baskerville", Georgia, serif;
+      --m: "IBM Plex Mono", ui-monospace, monospace;
+    }
+    .mast { padding: 1.1rem 1rem 0.9rem; border-bottom: 1px solid var(--rule); }
+    .kicker {
+      margin: 0 0 0.4rem;
+      font-family: var(--b);
+      font-size: 0.68rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+    .title {
+      margin: 0;
+      font-family: var(--h);
+      font-weight: 400;
+      font-size: clamp(1.35rem, 3.2vw, 1.85rem);
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+    }
+    .dir { padding: 1rem; }
+    .dir-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+    .dir-head h4 {
+      margin: 0;
+      font-family: var(--h);
+      font-weight: 600;
+      font-size: 1.25rem;
+      letter-spacing: -0.02em;
+    }
+    .count {
+      margin: 0;
+      font-family: var(--m);
+      font-size: 0.68rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink-2);
+    }
+    .chips { display: flex; flex-wrap: wrap; gap: 0.25rem; margin-bottom: 0.85rem; }
+    .chip {
+      font-family: var(--m);
+      font-size: 0.62rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 0.35rem 0.5rem;
+      border: 1px solid var(--rule);
+    }
+    .chip.on { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+    .card {
+      display: grid;
+      grid-template-columns: 2.75rem 1fr;
+      gap: 0.7rem;
+      border: 1px solid var(--rule);
+      padding: 0.7rem;
+    }
+    .glyph {
+      display: grid;
+      place-items: center;
+      background: var(--paper-2);
+      font-family: var(--m);
+      font-size: 0.7rem;
+    }
+    .name {
+      margin: 0;
+      font-family: var(--h);
+      font-weight: 600;
+      font-size: 0.82rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .stand, .place, .links {
+      margin: 0.2rem 0 0;
+      font-family: var(--b);
+      font-size: 0.78rem;
+      line-height: 1.45;
+    }
+    .links { font-family: var(--m); font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase; }
+    .pair[data-id="architect"] .site { --h: Outfit, sans-serif; --b: "Libre Baskerville", Georgia, serif; --m: "IBM Plex Mono", ui-monospace, monospace; }
+    .pair[data-id="impact"] .site { --h: "Fjalla One", sans-serif; --b: "Josefin Sans", sans-serif; --m: "Fira Code", ui-monospace, monospace; }
+    .pair[data-id="poster"] .site { --h: Oswald, sans-serif; --b: Barlow, sans-serif; --m: Inconsolata, ui-monospace, monospace; }
+    .pair[data-id="headline"] .site { --h: Anton, sans-serif; --b: "Work Sans", sans-serif; --m: "Roboto Mono", ui-monospace, monospace; }
+    .pair[data-id="brutalist"] .site { --h: "Archivo Black", sans-serif; --b: Archivo, sans-serif; --m: "Source Code Pro", ui-monospace, monospace; }
+    .pair[data-id="capsule"] .site { --h: Montserrat, sans-serif; --b: Karla, sans-serif; --m: "JetBrains Mono", ui-monospace, monospace; }
+    .pair[data-id="venture"] .site { --h: Jost, sans-serif; --b: Rubik, sans-serif; --m: "Roboto Mono", ui-monospace, monospace; }
+    .pair[data-id="creative"] .site { --h: "Space Grotesk", sans-serif; --b: "DM Sans", sans-serif; --m: "Fira Code", ui-monospace, monospace; }
+    .pair[data-id="studio"] .site { --h: "Bricolage Grotesque", sans-serif; --b: Figtree, sans-serif; --m: "Fira Code", ui-monospace, monospace; }
+    .pair[data-id="agency"] .site { --h: "Schibsted Grotesk", sans-serif; --b: Karla, sans-serif; --m: "Fira Code", ui-monospace, monospace; }
+    .pair[data-id="launch"] .site { --h: Sora, sans-serif; --b: "Public Sans", sans-serif; --m: "Fira Code", ui-monospace, monospace; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="intro">
+      <h1>Bold + Creative on this page</h1>
+      <p>
+        Same mast, same Directorio, same chips — only the Fonttrio pairing changes.
+        Architect is live. The rest are previews from
+        <a href="https://github.com/kapishdima/fonttrio">fonttrio</a>.
+      </p>
+      <p><code>pnpm dlx shadcn@latest add @fonttrio/&lt;name&gt;</code></p>
+      <nav class="toc">
+        <a href="#now">Now</a>
+        <a href="#bold">Bold</a>
+        <a href="#creative">Creative</a>
+      </nav>
+    </header>
+    <div id="gallery"></div>
+  </div>
+  <script>
+    const pairs = [
+      { id: "architect", group: "Now · live", live: true, name: "Architect", fonts: "Outfit + Libre Baskerville + IBM Plex Mono", note: "Current site. Geometric heading, serif body." },
+      { id: "impact", group: "Bold", name: "Impact", fonts: "Fjalla One + Josefin Sans + Fira Code", note: "Condensed Nordic headline. Commanding, a bit sports-poster." },
+      { id: "poster", group: "Bold", name: "Poster", fonts: "Oswald + Barlow + Inconsolata", note: "Tall condensed mast. Closest to a fair banner." },
+      { id: "headline", group: "Bold", name: "Headline", fonts: "Anton + Work Sans + Roboto Mono", note: "Unapologetic display. Loudest of the set." },
+      { id: "brutalist", group: "Bold", name: "Brutalist", fonts: "Archivo Black + Archivo + Source Code Pro", note: "Same family, heavy then regular. Raw." },
+      { id: "capsule", group: "Bold", name: "Capsule", fonts: "Montserrat + Karla + JetBrains Mono", note: "Urban geometric. Fashion-retail energy." },
+      { id: "venture", group: "Bold", name: "Venture", fonts: "Jost + Rubik + Roboto Mono", note: "Futura-ish ambition, slightly rounder body." },
+      { id: "creative", group: "Creative", name: "Creative", fonts: "Space Grotesk + DM Sans + Fira Code", note: "Playful geometric. Startup / portfolio." },
+      { id: "studio", group: "Creative", name: "Studio", fonts: "Bricolage Grotesque + Figtree + Fira Code", note: "Ink-trap character. Design-studio default." },
+      { id: "agency", group: "Creative", name: "Agency", fonts: "Schibsted Grotesk + Karla + Fira Code", note: "Nordic grotesque. Closest creative cousin to Architect." },
+      { id: "launch", group: "Creative", name: "Launch", fonts: "Sora + Public Sans + Fira Code", note: "Launch-day confidence. Clearer than Studio, less loud than Headline." },
+    ];
+
+    function card(p) {
+      return `<article class="pair${p.live ? " is-live" : ""}" data-id="${p.id}">
+        <div class="pair-meta">
+          <div>
+            <h3>${p.name}${p.live ? " · live" : ""}</h3>
+            <p>${p.fonts}</p>
+          </div>
+          <code>@fonttrio/${p.id}</code>
+        </div>
+        <div class="site">
+          <div class="mast">
+            <p class="kicker">Gran Salón Inmobiliario 2026 · Corferias · Bogotá</p>
+            <p class="title">Guía Independiente</p>
+          </div>
+          <div class="dir">
+            <div class="dir-head">
+              <h4>Directorio</h4>
+              <p class="count">159 expositores</p>
+            </div>
+            <div class="chips">
+              <span class="chip on">Todos</span>
+              <span class="chip">Bogotá</span>
+              <span class="chip">Panamá</span>
+              <span class="chip">Pabellón 6</span>
+            </div>
+            <div class="card">
+              <div class="glyph">08</div>
+              <div>
+                <p class="name">360 Radio Colombia</p>
+                <p class="stand">Pabellón 08 · Stand 158</p>
+                <p class="place">Medellín</p>
+                <p class="links">Ficha · Web</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>`;
+    }
+
+    const root = document.getElementById("gallery");
+    let grid = null;
+    let last = "";
+    for (const p of pairs) {
+      if (p.group !== last) {
+        const id = p.group.startsWith("Now") ? "now" : p.group.toLowerCase();
+        const heading = document.createElement("h2");
+        heading.className = "group";
+        heading.id = id;
+        heading.textContent = p.group;
+        root.appendChild(heading);
+        grid = document.createElement("div");
+        grid.className = "grid";
+        root.appendChild(grid);
+        last = p.group;
+      }
+      grid.insertAdjacentHTML("beforeend", card(p));
+    }
+  </script>
+</body>
+</html>
