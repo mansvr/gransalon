@@ -2,7 +2,7 @@ import { Suspense } from "react";
 
 import { Directory } from "@/components/Directory";
 import { HeroPlate } from "@/components/HeroPlate";
-import { getExhibitorCount, getExhibitors } from "@/lib/exhibitors";
+import { getExhibitors } from "@/lib/exhibitors";
 import { WA_GUIA } from "@/lib/whatsapp";
 
 const DISCLAIMER =
@@ -10,18 +10,14 @@ const DISCLAIMER =
 
 export default function Home() {
   const exhibitors = getExhibitors();
-  const total = getExhibitorCount();
 
   return (
     <>
       <div className="mast">
-        <div className="mast-copy">
-          <p className="mast-eyebrow">
-            Guía independiente · Gran Salón 2026 · Corferias
-          </p>
-          <h1 className="mast-headline">Encuentra el stand</h1>
-        </div>
-        <p className="mast-count">{total} expositores</p>
+        <p className="mast-eyebrow">
+          Gran Salón Inmobiliario 2026 · Corferias · Bogotá
+        </p>
+        <h1 className="mast-headline">Guía Independiente</h1>
       </div>
 
       <HeroPlate />

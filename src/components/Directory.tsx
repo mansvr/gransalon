@@ -1,7 +1,9 @@
 "use client";
 
 import { useQueryStates } from "nuqs";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+
+const PAGE_SIZE = 24;
 
 import {
   CITY_CHIPS,
@@ -83,12 +85,21 @@ function ExhibitorCard({ row }: { row: Exhibitor }) {
 
 export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
   const [filters, setFilters] = useQueryStates(directoryParsers);
+  const [shown, setShown] = useState(PAGE_SIZE);
   const results = filterExhibitors(exhibitors, filters);
   const active =
     Boolean(filters.q) ||
     filters.hall !== null ||
     filters.city !== null ||
     filters.tag !== null;
+  const filterKey = `${filters.q}|${filters.hall}|${filters.city}|${filters.tag}|${filters.sort}`;
+
+  useEffect(() => {
+    setShown(PAGE_SIZE);
+  }, [filterKey]);
+
+  const visible = results.slice(0, shown);
+  const remaining = results.length - visible.length;
 
   function toggleHall(value: (typeof HALL_CHIPS)[number]["value"]) {
     void setFilters({ hall: filters.hall === value ? null : value });
@@ -104,9 +115,11 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
     <section className="directory" aria-label="Directorio de expositores">
       <div className="directory-head">
         <h2>Directorio</h2>
-        <p className="result-count">
-          <strong>{results.length}</strong> expositores
-        </p>
+        {active ? (
+          <p className="result-count">
+            <strong>{results.length}</strong> expositores
+          </p>
+        ) : null}
       </div>
 
       <div className="chip-row" role="toolbar" aria-label="Filtros">
@@ -120,17 +133,6 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
         >
           Todos
         </button>
-        {HALL_CHIPS.map((chip) => (
-          <button
-            key={chip.value}
-            type="button"
-            className="chip"
-            aria-pressed={filters.hall === chip.value}
-            onClick={() => toggleHall(chip.value)}
-          >
-            {chip.label}
-          </button>
-        ))}
         {CITY_CHIPS.map((chip) => (
           <button
             key={chip.value}
@@ -149,6 +151,17 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
             className="chip"
             aria-pressed={filters.tag === chip.value}
             onClick={() => toggleTag(chip.value)}
+          >
+            {chip.label}
+          </button>
+        ))}
+        {HALL_CHIPS.map((chip) => (
+          <button
+            key={chip.value}
+            type="button"
+            className="chip"
+            aria-pressed={filters.hall === chip.value}
+            onClick={() => toggleHall(chip.value)}
           >
             {chip.label}
           </button>
@@ -187,14 +200,27 @@ export function Directory({ exhibitors }: { exhibitors: Exhibitor[] }) {
 
       {results.length === 0 ? (
         <p className="empty">
-          Ningún expositor coincide. Prueba otro pabellón o borra la búsqueda.
+          Ningún expositor coincide. Prueba otra ciudad o borra la búsqueda.
         </p>
       ) : (
-        <div className="exhibitor-grid">
-          {results.map((row) => (
-            <ExhibitorCard key={row.id} row={row} />
-          ))}
-        </div>
+        <>
+          <div className="exhibitor-grid">
+            {visible.map((row) => (
+              <ExhibitorCard key={row.id} row={row} />
+            ))}
+          </div>
+          {remaining > 0 ? (
+            <div className="more-row">
+              <button
+                type="button"
+                className="more-btn"
+                onClick={() => setShown((n) => n + PAGE_SIZE)}
+              >
+                Ver más
+              </button>
+            </div>
+          ) : null}
+        </>
       )}
     </section>
   );
