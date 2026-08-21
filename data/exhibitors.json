@@ -1,0 +1,3474 @@
+{
+  "meta": {
+    "count": 159,
+    "source": "data/exhibitors.catalog.csv",
+    "generatedAt": "2026-08-21",
+    "note": "One card per company. Hall chips use presence (a row with 06, 07 counts in both)."
+  },
+  "exhibitors": [
+    {
+      "id": "gsi-2026-08-164A",
+      "exhibitorId": "821241",
+      "companyName": "A&T INCONSER",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "164A",
+      "cityDisplay": "CARMEN DE APICALA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://aytinconser.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55451",
+      "descriptionEs": "A&T Inversiones, Construcciones y Servicios S.A.S. es una empresa dedicada al desarrollo y comercialización de proyectos urbanísticos, especializada en la venta de lotes con financiación directa. Nuestro compromiso es brindar oportunidades de inversión seguras, ofreciendo proyectos de calidad que generan valorización y bienestar para nuestros clientes."
+    },
+    {
+      "id": "gsi-2026-06-527",
+      "exhibitorId": "817424",
+      "companyName": "AR CONSTRUCCIONES",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "527",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "no_vis"
+      ],
+      "product": "PROYECTOS VIS Y NOVIS",
+      "website": "http://www.arconstrucciones.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-113",
+      "exhibitorId": "817941",
+      "companyName": "ACCIÓN INMOBILIARIA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "113",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "servicios"
+      ],
+      "product": "CAPTACION DE INMUEBLES, CAPTACION DE CLIENTES COMPRANDO Y ARRENDANDO Y CAPTACION DE AGENTES INMOBILIARIOS INDEPENDIENTES.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-228",
+      "exhibitorId": "818555",
+      "companyName": "ALMERIA DEVELOPERS",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "228",
+      "cityDisplay": "MIAMI",
+      "citySlugs": [
+        "internacional"
+      ],
+      "tags": [
+        "financiero",
+        "comercio",
+        "inversion"
+      ],
+      "product": "Finca Raíz para Invertir en USA Oportunidades de inversión en bienes raíces en Estados Unidos. Asesoramos a inversionistas internacionales en la compra de propiedades residenciales y comerciales, con opciones de alta rentabilidad en mercados estratégicos. Acompañamiento integral desde la selección del inmueble hasta el cierre de la operación. Préstamos de Construcción Financiamiento especializado para proyectos de construcción en Estados Unidos. Ofrecemos líneas de crédito diseñadas para desarrolladores y constructores",
+      "website": "http://almeriafl.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56203",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-243",
+      "exhibitorId": "815230",
+      "companyName": "ALTIUS PANAMA",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "243",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Exhibiremos varios desarrollos de apartamentos residenciales en el centro de la Ciudad de Panamá, entre ellos: More Vía Argentina https://more.com.pa/ y Nostrum Obarrio https://www.nostrum.com.pa/",
+      "website": "http://altius.com.pa",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-302A",
+      "exhibitorId": "805409",
+      "companyName": "AMARILO S A S",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "302A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://amarilo.com.co/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-116",
+      "exhibitorId": "827471",
+      "companyName": "AMBIENTTI CONSTRUCTORA INMOBILIARIA S.A./CONSTRUCTORA KOVOK SAS",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "116",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda",
+        "servicios"
+      ],
+      "product": "VENTAS DE CASAS Y APARTAMENTOS",
+      "website": "http://www.ambientti.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-202A",
+      "exhibitorId": "805724",
+      "companyName": "APIROS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "202A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "no_vis",
+        "vivienda"
+      ],
+      "product": "Proyectos de apartamentos VIS y NO VIS ubicados en Bogotá, Soacha y Barranquilla",
+      "website": "https://apiros.com.co/",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54801",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-445",
+      "exhibitorId": "808560",
+      "companyName": "ARANJUEZ CONSTRUCCIONES",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "445",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-228",
+      "exhibitorId": "804481",
+      "companyName": "ARQUITECTURA Y CONCRETO",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "228",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "comercio",
+        "vivienda"
+      ],
+      "product": "Lotes, casas, apartamentos, oficinas y locales",
+      "website": "http://www.arquitecturayconcreto.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=52780",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-274A",
+      "exhibitorId": "821980",
+      "companyName": "CONSTRUCTORA SIGLO XXI SANTODOMINGO SAS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "274A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-328",
+      "exhibitorId": "820797",
+      "companyName": "ARTIS URBANO",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "328",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "no_vis",
+        "vivienda"
+      ],
+      "product": "VIVIENDA VIS Y NO VIS EN BOGOTÁ Y ZIPAQUIRÁ",
+      "website": "http://www.artisurbano.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-378",
+      "exhibitorId": "826634",
+      "companyName": "ARB",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "378",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "PRESTACION DE SERVICIO PUBLICO DE ASEO EN EL COMPONENTE DE APROVECHAMIENTO. FABRICACION DE PERFILES, MOVILIARIO, ESTRUCTURA E INMUEBLES, LAMINA Y MANGUERA PARA RIEGO A PARTIR DE PLASTICO RECICLADO, TRANSFORMACION (PELETIZADO, MOLIDO, AGLUTINADO) DE PLASTICOS PARA LA INDUSTRIA. DISEÑO DE INMOBILIARIO Y ESTRUCTURA EN MADERA PLASTICA.",
+      "website": "http://www.asociacionrecicladoresbogota.org",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-372A",
+      "exhibitorId": "821019",
+      "companyName": "ESTRENAR VIVIENDA",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "372A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "financiero",
+        "vivienda"
+      ],
+      "product": "Revista y portal Web que contienen la oferta de Proyectos de Vivienda Nueva en Bogotá, Alrededor de Bogotá y en Zonas del País y la Línea de Financiación de Crédito Hipotecario",
+      "website": "http://www.estrenarvivienda.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-258",
+      "exhibitorId": "823468",
+      "companyName": "ACOBIR",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "258",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [],
+      "product": "SERVICIOS DE PROMOCION DE NUESTROS EVENTOS Y DE LO QUE OFRECEMOS COMO ASOCIACIÓN A NUESTROS AGREMIADOS",
+      "website": "http://www.acobir.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55206",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-117",
+      "exhibitorId": "826334",
+      "companyName": "ASOVICOL DE SAN MIGUEL",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "117",
+      "cityDisplay": "VILLETA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-234",
+      "exhibitorId": "804537",
+      "companyName": "ASUL S.A.S",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "234",
+      "cityDisplay": "PEREIRA",
+      "citySlugs": [
+        "eje_cafetero"
+      ],
+      "tags": [
+        "vis",
+        "no_vis",
+        "comercio"
+      ],
+      "product": "BODEGAS, OFICINAS, PROYECTOS VIS, NO VIS",
+      "website": "http://www.asul.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-633",
+      "exhibitorId": "803628",
+      "companyName": "B & G CONSTRUCCIONES S.A.S",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "633",
+      "cityDisplay": "LA MESA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Los tres proyectos de vivienda ubicados en La Mesa representan una oferta integral para diferentes estilos de vida. Altos del Refugio combina apartamentos y casas diseñados para quienes buscan comodidad y cercanía a servicios, manteniendo un ambiente residencial y funcional. Cerro ofrece igualmente una mezcla de apartamentos y casas, destacándose por su diseño contemporáneo y su ubicación estratégica que permite disfrutar de vistas privilegiadas y una conexión directa con la naturaleza. Finalmente, Bosques Gerizim se orienta a viviendas campestres, conformadas por casas que priorizan amplios espacios, tranquilidad y une stilo de vida más rural, ideal para quienes desean vivir rodeados de vegetación y paisajes propios de La Mesa.",
+      "website": "http://www.bygconstrucciones.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-402",
+      "exhibitorId": "809182",
+      "companyName": "BBVA COLOMBIA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "402",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "financiero",
+        "vivienda"
+      ],
+      "product": "Oferta de portafolio financiero de productos para la adquisición de vivienda",
+      "website": "http://www.bbva.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-202",
+      "exhibitorId": "809166",
+      "companyName": "BANCO CAJA SOCIAL S.A.",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "202",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "financiero"
+      ],
+      "product": "Productos Financieros",
+      "website": "https://www.bancocajasocial.com/creditos-de-vivienda/",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55902",
+      "descriptionEs": "El Banco Caja Social, empresa de Fundación Grupo Social, lleva más de 115 años contribuyendo al desarrollo social y económico de Colombia. A través de su actividad financiera, promueve la inclusión y acompaña a las personas, familias, microempresarios, pequeñas y medianas empresas, el sector inmobiliario y otros segmentos con soluciones que responden a sus necesidades y contribuyen a su bienestar financiero, Con más de 2,4 millones de clientes y presencia en 875 municipios del país, reafirma su compromiso con el bienestar de sus clientes y el desarrollo del país."
+    },
+    {
+      "id": "gsi-2026-07-169",
+      "exhibitorId": "809891",
+      "companyName": "Clara Robinson PA, Property Management",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "169",
+      "cityDisplay": "PEMBROKE PINES",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "Administración de propiedades en el Sur &Central Florida, Detroit -Michigan & Cleveland -Ohio.",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56112",
+      "descriptionEs": "Ofrecemos servicios profesionales de administración para casas unifamiliares, condominios y casas adosadas en Florida y Detroit. Nuestro equipo cuenta con amplia experiencia y es completamente bilingüe en inglés y español, lo que nos permite mantener una comunicación clara con propietarios, inquilinos, proveedores y agencias de vivienda. También trabajamos con programas gubernamentales de asistencia para vivienda, incluyendo Sección 8, en múltiples ciudades. Nuestro objetivo es brindar a los propietarios un servicio integral, confiable y 100 % transparente."
+    },
+    {
+      "id": "gsi-2026-07-233",
+      "exhibitorId": "821785",
+      "companyName": "EFC GROUP",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "233",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56196",
+      "descriptionEs": "\" ELEVAMOS TU CALIDAD DE VIDA Somos una empresa inmobiliaria con más de 15 años de experiencia en el diseño, desarrollo y gestión de proyectos funcionales de vivienda y oficinas. Actualmente contamos con una interesante oferta dirigida al mercado inversionista Colombiano, por esta razón llegamos por primera vez al Gran Salón Inmobiliario, con nestros proyectos APRES y Park Square, ubicados en Ciudad de Panamá.\""
+    },
+    {
+      "id": "gsi-2026-08-155A",
+      "exhibitorId": "824712",
+      "companyName": "COLETTA Y FAZZI",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "155A",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [],
+      "product": "Proyectos inmobiliarios",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56091",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-149B",
+      "exhibitorId": "825305",
+      "companyName": "COLOMBIA CMF SA",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "149B",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://www.cmfsa.com/",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55989",
+      "descriptionEs": "CMF Constructora es una compañía colombiana con más de 25 años de experiencia en la gestión y construcción de proyectos inmobiliarios integrales. Desarrollamos proyectos residenciales, comerciales e industriales, acompañando cada etapa del proceso, desde la estructuración y el diseño hasta la construcción y comercialización. Trabajamos con ética, eficiencia y calidad, transformando ideas en proyectos que generan valor y contribuyen al desarrollo de las ciudades y sus comunidades."
+    },
+    {
+      "id": "gsi-2026-06-534",
+      "exhibitorId": "805397",
+      "companyName": "CONALTURA CONSTRUCCION Y VIVIENDA S.A.S",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "534",
+      "cityDisplay": "MEDELLIN",
+      "citySlugs": [
+        "medellin"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "",
+      "website": "http://www.conaltura.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-233",
+      "exhibitorId": "804858",
+      "companyName": "CONFIAR COOP",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "233",
+      "cityDisplay": "MEDELLIN",
+      "citySlugs": [
+        "medellin"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Productos y servicios de ahorro, crédito y beneficios. Proyectos de vivienda.",
+      "website": "http://www.confiar.coop",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-129A",
+      "exhibitorId": "819834",
+      "companyName": "MALECÓN 72",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "129A",
+      "cityDisplay": "BARRANQUILLA",
+      "citySlugs": [
+        "barranquilla"
+      ],
+      "tags": [],
+      "product": "Proyectos inmobiliarios en la Costa Caribe",
+      "website": "https://www.ydn.com.co/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-102A",
+      "exhibitorId": "799433",
+      "companyName": "CONSTRUCCIONES BUEN VIVIR SAS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "102A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://wwww.buenvivir.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-343",
+      "exhibitorId": "804843",
+      "companyName": "CONSTRUCCIONES DESIGNCAD SAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "343",
+      "cityDisplay": "MELGAR",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "comercio",
+        "vivienda"
+      ],
+      "product": "Venta de Lotes Urbanos en Conjunto Cerrado ubicados en el Municipio de Melgar-Tolima, proyectos denominados Reservas de Santillana, Santillana de las Flores. Y venta de locales comerciales en Zona Comercial Reservas Mall.",
+      "website": "http://www.dcmelgar.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54931",
+      "descriptionEs": "DesignCAD es una constructora y desarrolladora inmobiliaria con más de 20 años de experiencia, dedicada a crear proyectos que transforman la inversión en calidad de vida. Desarrollamos espacios pensados para quienes buscan una segunda vivienda, una oportunidad de valorización o el lugar ideal para construir nuevos recuerdos. En el Gran Salón Inmobiliario presentamos proyectos que combinan urbanismo, diseño arquitectónico y financiación directa, ofreciendo a nuestros clientes un acompañamiento integral desde la elección del lote hasta la construcción de su hogar."
+    },
+    {
+      "id": "gsi-2026-06-214",
+      "exhibitorId": "806180",
+      "companyName": "CONSTRUCCIONES PLANIFICADAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "214",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "comercio",
+        "vivienda"
+      ],
+      "product": "Ventas de vivienda y oficinas",
+      "website": "https://www.construccionesplanificadas.com/",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54480",
+      "descriptionEs": "Construcciones Planificadas: Cuenta con una amplia gama de proyectos que abarcan vivienda, centros comerciales, hoteles de lujo y centros hospitalarios de alta complejidad. Hemos desarrollado con éxito una serie de proyectos que han transformado comunidades."
+    },
+    {
+      "id": "gsi-2026-06-129",
+      "exhibitorId": "803978",
+      "companyName": "CONSTRUCTORA ARDGUZ",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "129",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://www.ardguz.com.co/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-414",
+      "exhibitorId": "803634",
+      "companyName": "CONSTRUCTORA BOLIVAR BOGOTA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "414",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Apartamentos y Casas nivel nacional",
+      "website": "http://www.constructorabolivar.com/",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56211",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-ALB-43",
+      "exhibitorId": "807008",
+      "companyName": "CONSTRUCTORA CAPITAL BOGOTA S.A.S.",
+      "hallRaw": "ALB",
+      "halls": [
+        "ALB"
+      ],
+      "nivel": "01",
+      "standRaw": "43",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.constructoracapital.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55970",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-347",
+      "exhibitorId": "807357",
+      "companyName": "CONSTRUCTORA CASA VERDE",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "347",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Lotes campestres en la ciudad de Alvarado, Lérida, Totumo y Espinal en el Tolima",
+      "website": "http://www.constructoracasaverde.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55242",
+      "descriptionEs": "Constructora Casa Verde es una empresa inmobiliaria con más de 18 años de experiencia en el desarrollo y comercialización de proyectos de vivienda, lotes urbanos y campestres en el departamento del Tolima. Nos caracterizamos por ofrecer proyectos confiables, con excelente ubicación, matrículas inmobiliarias independientes y opciones de financiación directa, con cuotas fijas y sin intereses. Nuestro propósito es ayudar a las familias colombianas, tanto en Colombia como en el exterior, a construir su patrimonio y hacer realidad el sueño de tener un terreno propio. A lo largo de nuestra trayectoria hemos desarrollado y entregado diferentes proyectos inmobiliarios, brindando acompañamiento personalizado, seguridad jurídica y alternativas de inversión adaptadas a las necesidades de cada cliente. En Constructora Casa Verde no vendemos expectativas: ofrecemos proyectos reales, oportunidades de inversión y espacios para construir un mejor futuro."
+    },
+    {
+      "id": "gsi-2026-ALB-103",
+      "exhibitorId": "806263, 806226, 806246, 806223, 806278, 806272, 806220, 806259, 806236, 806261, 806250, 806234, 806269, 806232, 806230",
+      "companyName": "CONSTRUCTORA COLPATRIA",
+      "hallRaw": "ALB",
+      "halls": [
+        "ALB"
+      ],
+      "nivel": "01",
+      "standRaw": "103, 104, 108, 116, 124, 125, 132, 136, 139, 145, 151, 152, 155, 160, 162",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "Proyectos Inmobiliarios",
+      "website": "http://www.constructoracolpatria.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-128",
+      "exhibitorId": "804217",
+      "companyName": "CONSTRUCTORA CONCONCRETO",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "128",
+      "cityDisplay": "MEDELLIN",
+      "citySlugs": [
+        "medellin"
+      ],
+      "tags": [],
+      "product": "N/A",
+      "website": "https://conconcreto.com/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-114",
+      "exhibitorId": "827685",
+      "companyName": "CONSTRUCTORA HABITAT DE LOS ANDES SAS",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "114",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "financiero",
+        "comercio",
+        "vivienda",
+        "inversion",
+        "servicios"
+      ],
+      "product": "Desarrollo, promoción y comercialización de proyectos inmobiliarios de vivienda. Asesoría personalizada para la adquisición de inmuebles, inversión inmobiliaria, financiación y acompañamiento integral durante el proceso de compra.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-340A",
+      "exhibitorId": "805394, 817083",
+      "companyName": "CONSTRUCTORA JIMENEZ S.A.",
+      "hallRaw": "06, 08",
+      "halls": [
+        "06",
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "06-340A, 08-111A",
+      "cityDisplay": "SANTA MARTA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "comercio",
+        "inversion"
+      ],
+      "product": "Proyecto Delventto ya terminado con unidades por comercializar (28 por comercializar) y Proyecto Delventto Mare recién lanzado con enfoque de rentas cortas (536 und)",
+      "website": "http://www.constructorajimenez.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56207",
+      "descriptionEs": "En Promotora Jiménez S.A.S. hacemos realidad proyectos inmobiliarios con sello de excelencia. Cubrimos de manera integral todo el ciclo de valor: diseñamos, gerenciamos, promovemos y construimos proyectos residenciales, turísticos y comerciales que destacan por su innovación, calidad y diseño funcional. Acompañamos a nuestros clientes e inversionistas garantizando transparencia, respaldo y máxima rentabilidad. Nos motiva construir espacios donde las familias prosperen, los turistas vivan experiencias memorables y los inversionistas alcancen su máximo potencial. En Promotora Jiménez S.A.S nos sentimos orgullosos de nuestras raíces. Nacimos con el ADN y crecimos respaldados por la trayectoria de 40 años de Constructora Jiménez, aprendiendo de los mejores en el sector. Hoy, nuestra promotora es una empresa 100% independiente, con autonomía financiera, operativa y estratégica propia. Mantenemos el mismo estándar y la misma garantía de siempre."
+    },
+    {
+      "id": "gsi-2026-07-282",
+      "exhibitorId": "824800",
+      "companyName": "PH ESTELA",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "282",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "vivienda",
+        "inversion"
+      ],
+      "product": "Venta de apartamentos en la ciudad de Panamá - PH ESTELA Promoción, exhibición y venta de apartamentos del proyecto residencial PH ESTELA, ubicado en San Francisco, Ciudad de Panamá. Se brindará información detallada sobre el proyecto y asesoría personalizada para compradores e inversionistas.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-118",
+      "exhibitorId": "826733",
+      "companyName": "MARDEL S.A.S",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "118",
+      "cityDisplay": "BUCARAMANGA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vis",
+        "no_vis"
+      ],
+      "product": "1. Proyecto Montebello de Mardel ( VIS). 2. Proyecto Lagos de Mardel (NO VIS)",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56188",
+      "descriptionEs": "Empresa constructora con más de 37 años de experiencia creando realidades que superan expectativas en el Área Metropolitana de Bucaramanga."
+    },
+    {
+      "id": "gsi-2026-08-112A",
+      "exhibitorId": "809312",
+      "companyName": "CONSTRUCTORA OPEN",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "112A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "VENTA DE APARTAMENTOS ENTRE",
+      "website": "http://constructoraopen.com.co",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54980",
+      "descriptionEs": "Somos una empresa de construcción con más de 20 años de experiencia. Nuestro propósito es enriquecer la vida. No construimos edificios. Construimos espacios que cambian la vida de las personas: una vida más plena, próspera y significativa."
+    },
+    {
+      "id": "gsi-2026-06-245",
+      "exhibitorId": "823153",
+      "companyName": "SAOMA SAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "245",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [
+        "comercio"
+      ],
+      "product": "INMOBILIARIO- DERECHOS FIDUCIARIOS CENTRO COMERCIAL",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56083",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-244",
+      "exhibitorId": "816132",
+      "companyName": "CONSTRUCTORA SORIANO",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "244",
+      "cityDisplay": "ARMENIA",
+      "citySlugs": [
+        "eje_cafetero"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.constructorasoriano.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55492",
+      "descriptionEs": "En Constructora Soriano, creemos que cada ladrillo cuenta una historia, y cada proyecto es una oportunidad para transformar vidas. Desde 1997 hemos hecho parte del crecimiento y desarrollo del Eje Cafetero, no solo construyendo edificaciones, sino creando lugares donde las personas puedan vivir, crecer y soñar."
+    },
+    {
+      "id": "gsi-2026-06-248",
+      "exhibitorId": "812520",
+      "companyName": "CPI LOS PUEBLOS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "248",
+      "cityDisplay": "MEDELLIN",
+      "citySlugs": [
+        "medellin"
+      ],
+      "tags": [],
+      "product": "Se exhibirá en gran medida el proyecto PUEBLO PANACA, proyecto turístico inmobiliario que hace parte del PROYECTO TURISTICO ESPECIAL TERRITORIO PANACA (Primer PTE de COLOMBIA), además, de los proyectos que se tienen en Caldas y Antioquia.",
+      "website": "http://www.pueblopanca.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=53243",
+      "descriptionEs": "Constructora y Promotora Inmobiliaria Los Pueblos, desarrollador del Primer Proyecto Turistico Especial de Colombia en el eje cafetero."
+    },
+    {
+      "id": "gsi-2026-08-364",
+      "exhibitorId": "805420",
+      "companyName": "COOTRADECUN",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "364",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "no_vis",
+        "vivienda"
+      ],
+      "product": "4 Proyectos de vivienda: Rancho grande / Melgar Tolima (Condominio Campestre) - El Pedregal parque residencial / Fusagasugá Cundinamarca (Apartamentos NO VIS) - Arrayanes de peñalista ll / Ricaurte Cundinamarca (Apartamentos VIP y VIS) - Reservas de Guance / Pacho Cundinamarca (lotes urbanizados) Servicios de crédito y asociación",
+      "website": "http://www.cootradecun.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-ALB-53",
+      "exhibitorId": "823167",
+      "companyName": "Pruebas Corferias",
+      "hallRaw": "ALB",
+      "halls": [
+        "ALB"
+      ],
+      "nivel": "01",
+      "standRaw": "53",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.corferias.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-183B",
+      "exhibitorId": "824762",
+      "companyName": "CORPORACIÓN UNIVERSITARIA TALLER CINCO CENTRO DE DISEÑO",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "183B",
+      "cityDisplay": "CHIA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "Servicios de educación Profesional en las áreas del diseño al igual que educación continua (cursos diplomados asesorías)",
+      "website": "http://www.taller5.edu.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-101",
+      "exhibitorId": "826850",
+      "companyName": "CRV CONSTRUCCIONES Y URBANIZACIONES SAS",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "101",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-389",
+      "exhibitorId": "824993",
+      "companyName": "CSB INMOBILIARIA",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "389",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda",
+        "servicios"
+      ],
+      "product": "Viviendas que cumplen con Ecourbanismo",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56163",
+      "descriptionEs": "Empresa dedicada a la estructuración, promoción, diseño y construcción de Proyectos Inmobiliarios"
+    },
+    {
+      "id": "gsi-2026-08-254A",
+      "exhibitorId": "805818",
+      "companyName": "CUMBRERA S.A.S",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "254A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "Proyectos inmobiliarios",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54817",
+      "descriptionEs": "CUMBRERA nace en julio de 1996 como una empresa de ingeniería dedicada al diseño, gerencia, construcción y comercialización de proyectos. Con más de 29 años de trayectoria, ha participado en más de 60 proyectos VIS, no VIS, industriales, de oficinas, comercio y urbanismo, aportando al desarrollo de Bogotá y zonas colindantes, así como a la generación de empleo y bienestar."
+    },
+    {
+      "id": "gsi-2026-06-334",
+      "exhibitorId": "807465",
+      "companyName": "CUSEZAR",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "334",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.cusezar.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-ALB-27",
+      "exhibitorId": "815777",
+      "companyName": "CYPRES CASAS Y PREFABRICADOS",
+      "hallRaw": "ALB",
+      "halls": [
+        "ALB"
+      ],
+      "nivel": "01",
+      "standRaw": "27",
+      "cityDisplay": "MEDELLIN",
+      "citySlugs": [
+        "medellin"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "CASAS PREFABRICADAS",
+      "website": "http://www.casascypres.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-109",
+      "exhibitorId": "826741",
+      "companyName": "PRO2",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "109",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis"
+      ],
+      "product": "Proyecto VIS Bogotá SANTA ANA 11 SUR // Proyecto VIS Chía MÁRMARA // Proyecto VIS Chía AVANTI // Condominio Campestres Carmen de Apicalá MONTEARROYO",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-514",
+      "exhibitorId": "805404",
+      "companyName": "DPROPERTY SAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "514",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "Proyectos inmobiliarios en Panamá",
+      "website": "http://www.dproperty.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-134",
+      "exhibitorId": "816781",
+      "companyName": "CIUDAD CAYALÁ",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "134",
+      "cityDisplay": "GUATEMALA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda",
+        "inversion",
+        "servicios"
+      ],
+      "product": "NUESTROS PRODUCTOS SON PROYECTOS MIXTOS DISEÑADOS PARA QUIENES BUSCAN UNA OPCIÓN DE INVERSIÓN INMOBILIARIA O UNA VIVIENDA PROPIA, LOS PROYECTOS SON: AZALEA: 2 TORRES/ 6-14 NIVELES POR TORRE/ 40 APARTAMENTOS, EONIA: 3 TORRES/ 4-12 NIVELES/ 39 APARTAMENTOS, NOGALES III 4 TORRES 5/7 NIVELES POR TORRE/ 63 APARTAMENTOS AVENIA: 5 TORRES/ 7-8 NIVELES/ 151 APARTAMENTOS",
+      "website": "https://cayala.com/inmobiliaria",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-353",
+      "exhibitorId": "821775",
+      "companyName": "EDIFICALIA SAS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "353",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "no_vis",
+        "vivienda"
+      ],
+      "product": "APARTAMENTOS EN CONJUNTO CERRADO VIS Y NO VIS, PROYECTO RIBERA CAMPESTRE - IBAGUE, PROYECTO RIBERA DE LA FLORIDA - PEREIRA, ANDAKI BOSQUE RESIDENCIAL-FLORENCIA, PROYECTOS SAN PABLO-NEIVA",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-288",
+      "exhibitorId": "824117",
+      "companyName": "EMERALD GREEN RESIDENCE",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "288",
+      "cityDisplay": "HIGUEY",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-384",
+      "exhibitorId": "826684",
+      "companyName": "Eko Group H2O+",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "384",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "Sistema de recolección y captación de agua lluvia sistema Ekomuro H2O+ con adaptabilidad para agua de consumo",
+      "website": "http://www.ekogrouph2o.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56059",
+      "descriptionEs": "Eko Group H2O+ es una empresa colombiana de innovación ambiental que desarrolla soluciones para el aprovechamiento eficiente del agua y la economía circular. Nuestro producto insignia, Ekomuro H2O+, es un sistema modular de captación y almacenamiento de agua lluvia fabricado con materiales reutilizados y reciclados, diseñado para integrarse en viviendas, proyectos inmobiliarios, espacios urbanos y comunidades. Complementamos estas soluciones con tecnologías para la reutilización de aguas grises y el ahorro de agua, contribuyendo a reducir el consumo de agua potable, aprovechar recursos naturales y fortalecer la resiliencia de las edificaciones frente al cambio climático. Nuestro objetivo es llevar la sostenibilidad, la economía circular y la gestión inteligente del agua al sector inmobiliario, ofreciendo soluciones innovadoras que generan beneficios ambientales, sociales y económicos tanto para desarrolladores como para propietarios y comunidades."
+    },
+    {
+      "id": "gsi-2026-08-141B",
+      "exhibitorId": "825216",
+      "companyName": "EL POBLADO S.A.S",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "141B",
+      "cityDisplay": "BARRANQUILLA",
+      "citySlugs": [
+        "barranquilla"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "VENTA DE LOTES CAMPESTRES",
+      "website": "http://www.grupoelpoblado.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-181",
+      "exhibitorId": "813253",
+      "companyName": "ELITE CAPITAL REALTY INC",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "181",
+      "cityDisplay": "DAVENPORT",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "comercio",
+        "inversion"
+      ],
+      "product": "Exposición de proyectos inmobiliarios en preconstrucción a nivel internacional, incluyendo opciones residenciales y comerciales orientadas a inversión.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-157",
+      "exhibitorId": "809440",
+      "companyName": "EMPORIUM DEVELOPERS",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "157",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "turismo",
+        "vivienda",
+        "inversion"
+      ],
+      "product": "APARTAMENTOS DE INVERSIÓN CON LICENCIA HOTELERA, IDEALES PARA RENTABILIZAR EN PLATAFORMAS DE ESTANCIA CORTAS DESDE $104,000 CON RETORNOS DE HASTA EL 12% ANUAL",
+      "website": "http://www.edpanama.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=53905",
+      "descriptionEs": "Nos especializamos en la comercialización y venta de proyectos residenciales innovadores, ubicados en las áreas más estratégicas y exclusivas de Ciudad de Panamá. Respaldados por más de 20 años de trayectoria de Emporium Developers en el sector inmobiliario panameño, nos consolidamos como líderes en el mercado de bienes raíces, conectando a las personas con propiedades que aportan valor y elevan su calidad de vida."
+    },
+    {
+      "id": "gsi-2026-08-266A",
+      "exhibitorId": "824641",
+      "companyName": "ESPECIALMENTE S.A.S",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "266A",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-2",
+      "exhibitorId": "814846",
+      "companyName": "ESTRATEGIAS URBANISTICAS S.A.S.",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "2",
+      "cityDisplay": "PUERTO COLOMBIA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "VENTA DE LOTES URBANIZADOS",
+      "website": "http://www.estrategiasurbanisticas.com/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-650",
+      "exhibitorId": "824784",
+      "companyName": "EZPHERA TECH",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "650",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "IMULADOR XR REALIDAD VIRTUAL, AUMENTADA Y MIXTA AVATAR AI INTERACTIVO, JUEGOS INTERACTIVOS, REALIDAD AUMENTADA",
+      "website": "http://www.ezphera.net",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-276",
+      "exhibitorId": "809485",
+      "companyName": "GRUPO BINIAN",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "276",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "turismo",
+        "vivienda",
+        "inversion"
+      ],
+      "product": "Tendremos 4 proyectos: para compra de apartamentos: 1. Balcony edificio de entrega inmediata con apartamentos de 1, 2 y 3 recamaras con várias amenidades. 2. Altamira residences: apartamentos de 3 Recamaras y 2 baños listo para ocupar ubicado en zona estratégica de la cuidad. 3. Aurora: proyecto en construcción para residencia con apartamentos de 3 y 2 recamaras entrega estimado 2027 y finalmente 4. Soul: apartamentos con licencia hotelera de 1 y 2 recamaras para rensta corta e inversión.",
+      "website": "http://www.grupobinian.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55956",
+      "descriptionEs": "Con más de 40 años de experiencia local e internacional, desarrollamos proyectos residenciales y oportunidades de inversión que combinan calidad constructiva, ubicaciones estratégicas y valor a largo plazo para compradores locales e internacionales. Vive mejor. Invierte con inteligencia. Construye un patrimonio duradero!"
+    },
+    {
+      "id": "gsi-2026-06-142",
+      "exhibitorId": "819797",
+      "companyName": "GRUPO CONSTRUCTOR GRAND HOREB",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "142",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "financiero",
+        "comercio",
+        "vivienda",
+        "inversion",
+        "servicios"
+      ],
+      "product": "La empresa exhibirá y promocionará el proyecto campestre Valle de Bethel, ofreciendo al público las diferentes alternativas de inversión y adquisición de bienes raíces dentro del proyecto, incluyendo: Lotes campestres urbanizados. Parcelas para construcción de vivienda campestre. Oportunidades de inversión inmobiliaria en un entorno natural y de valorización. Asesoría comercial personalizada para la adquisición de lotes. Información sobre planes de financiación y facilidades de pago. Acompañamiento en el proceso de compra, escrituración y legalización. Presentación de las características, beneficios y proyección de desarrollo del proyecto Valle de Bethel. Durante la feria se brindará atención personalizada a los visitantes, entrega de material informativo y orientación sobre las diferentes opciones disponibles para inversión, recreación y vivienda campestre.",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55771",
+      "descriptionEs": "Lotes Campestres Chucuní Ibagué desde 300 M2, construye la casa de tus sueños con la exclusividad de un sitio con portería y seguridad, ruta de caminata al mirador zonas sociales con piscinas, salón social, buenas vías y mucho mas. Separa ya el tuyo con tan solo 3 millones financiación sin interés!!"
+    },
+    {
+      "id": "gsi-2026-06-125",
+      "exhibitorId": "803777",
+      "companyName": "GRUPO CONSTRUCTOR MERAKI S.A.S. ZOMAC",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "125",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "VENTA DE CONDOMINIOS, LOTES Y VIVIENDAS CAMPESTRES",
+      "website": "http://www.grupoconstructormeraki.com.co",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54528",
+      "descriptionEs": "Con 26 años de experiencia, Grupo Constructor Meraki es líder en el desarrollo de condominios campestres en el Tolima, con proyectos en Melgar, Alvarado y Mariquita. Ofrecemos lotes y viviendas campestres en clubes de campo con excelente ubicación, valorización garantizada y facilidades de pago. Tu inversión, tu descanso, tu hogar campestre: con Meraki, a la fija."
+    },
+    {
+      "id": "gsi-2026-06-449A",
+      "exhibitorId": "803386",
+      "companyName": "GRUPO EMPRESARIAL KINKU",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "449A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://kinku.co/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-104",
+      "exhibitorId": "827683",
+      "companyName": "GRUPO EMPRESARIAL OIKOS",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "104",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.oikos.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-158",
+      "exhibitorId": "827995",
+      "companyName": "360 RADIO COLOMBIA",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "158",
+      "cityDisplay": "MEDELLIN",
+      "citySlugs": [
+        "medellin"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-263",
+      "exhibitorId": "809179",
+      "companyName": "GRUPO GESTIONES REAL ESTATE",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "263",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "comercio"
+      ],
+      "product": "Propiedades comerciales y residenciales con potencial para invertir en Panamá",
+      "website": "http://www.grupogestiones.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=53665",
+      "descriptionEs": "Grupo Gestiones Real Estate Panamá ofrece asesoría inmobiliaria y legal especializada en compra, venta y alquiler de propiedades en Panamá. Expertos en inversiones, bienes raíces de lujo y oportunidades comerciales en zonas exclusivas del país."
+    },
+    {
+      "id": "gsi-2026-06-528",
+      "exhibitorId": "804582",
+      "companyName": "GRUPO IBSA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "528",
+      "cityDisplay": "CUCUTA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.celeusgroup.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=52933",
+      "descriptionEs": "Celeus Group es la constructora más grande del oriente colombiano, con 35 años de experiencia desarrollando megaproyectos residenciales de alta valorización. Con el m² más rentable del país, nos consolidamos como líderes en el sector inmobiliario de la región. Actualmente, estamos construyendo dos desarrollos visionarios que redefinirán el concepto de inversión: Ciudad Viva y Ciudad Boreal, diseñados bajo el innovador modelo de “ciudad dentro de la ciudad”. Nuestra trayectoria nos respalda: más de tres décadas creando proyectos sostenibles, rentables e innovadores, que han hecho realidad los sueños de familias e inversionistas en todo el país."
+    },
+    {
+      "id": "gsi-2026-08-247A",
+      "exhibitorId": "807823",
+      "companyName": "PATALOES CONSTRUCCION Y DISEÑO",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "247A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "ESTRUTURACION, DISEÑO Y CONSTRUCCION DE CUALQUIER TIPO DE PROYECTO INMOBILIARIO.",
+      "website": "http://www.grupopataloes.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-112",
+      "exhibitorId": "827292",
+      "companyName": "GRUPO SOLERIUM VIU GROUP",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "112",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-144",
+      "exhibitorId": "813678",
+      "companyName": "F&F PROPERTIES",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "144",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "X TheBuilding es un proyecto residencial moderno ubicado estratégicamente sobre la Vía Cincuentenario, con fácil acceso a Costa del Este, San Francisco y las principales vías de la ciudad, lo que lo convierte en una excelente opción para vivir o invertir. Ofrece apartamentos de 67 m2 y 90 m2, diseñados con distribuciones funcionales y contemporáneas, complementados con amenidades pensadas para el estilo de vida actual y en una zona con alto potencial de la valorización.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-340",
+      "exhibitorId": "821275",
+      "companyName": "ICONO URBANO S.A.",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "340",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Apartamentos ubicados en la ciudad de Bogotá, en diferentes áreas construidas, en zonas como Chico, Parkway y Centro",
+      "website": "http://www.icono.com.co",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56011",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-113",
+      "exhibitorId": "827512",
+      "companyName": "IKONSTRUIR SAS",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "113",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "VENTA DE DOS PROYECTOS DE APARTAMENTOS IKONA 167 Y SIETE 167",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-102",
+      "exhibitorId": "827163",
+      "companyName": "INACAR",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "102",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.inacar.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-246",
+      "exhibitorId": "820140",
+      "companyName": "REMAX INFINITY PANAMÁ",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "246",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "financiero",
+        "comercio",
+        "inversion",
+        "servicios"
+      ],
+      "product": "Comercialización de proyectos inmobiliarios residenciales y de inversión en Panamá. Asesoría integral para compra de propiedades e inversión inmobiliaria. Proyectos en preventa, construcción y entrega inmediata. Propiedades para inversión con potencial de renta corta y renta tradicional. Asesoría financiera y acompañamiento en procesos hipotecarios para compradores extranjeros. Servicios de corretaje, administración de propiedades y gestión de inversiones inmobiliarias.",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55554",
+      "descriptionEs": "OFICINA NRO. 1 EN PANAMA DE BIENES RAICES"
+    },
+    {
+      "id": "gsi-2026-08-222A",
+      "exhibitorId": "807498",
+      "companyName": "INGENAL",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "222A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "no_vis",
+        "vivienda",
+        "inversion"
+      ],
+      "product": "nuestros proyectos de Vivienda de Interés Social (VIS) y No VIS, ubicados estratégicamente en Bogotá, la Sabana de Bogotá y Cartagena, zonas con alto crecimiento, valorización y excelente proyección de inversión. Nos destacamos por nuestros diseños exclusivos, espacios funcionales y modernos que priorizan la iluminación natural, la distribución inteligente y el bienestar de las familias. Además, nuestros acabados de entrega marcan la diferencia: trabajamos con altos estándares de calidad para garantizar viviendas listas para disfrutar desde el primer día. En Ingenal no solo construimos apartamentos; construimos oportunidades, patrimonio y calidad de vida.",
+      "website": "http://www.ingenal.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-638",
+      "exhibitorId": "803087",
+      "companyName": "INGENOVA ING",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "638",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://ingenova.co",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55932",
+      "descriptionEs": "Somos una empresa de construcción con proyectos en Cundinamarca y Boyacá"
+    },
+    {
+      "id": "gsi-2026-08-241A",
+      "exhibitorId": "823604",
+      "companyName": "LOSDRIGUEL CONSTRUCCIONES SAS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "241A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "PROYECTOS DE VIVIENDA",
+      "website": "http://www.ingeredes.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-123",
+      "exhibitorId": "820195",
+      "companyName": "BABEL INMOBILIARIA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "123",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda",
+        "servicios"
+      ],
+      "product": "INVENTARIO DE INMUEBLES EN VIVIENDA USADA A NIVEL NACIONAL",
+      "website": "http://www.inmobiliariababel.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-175",
+      "exhibitorId": "815780",
+      "companyName": "GRUPO MIRO",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "175",
+      "cityDisplay": "DAVID",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "PROYECTOS INMOBILIARIOS Y RESIDENCIALES. PARQUE LOGISTICO UBICADO EN EL ÁREA OCCIDENTAL DEL PAÍS",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-257",
+      "exhibitorId": "818659",
+      "companyName": "INMOBILIARIA CIELO AZUL",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "257",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "servicios"
+      ],
+      "product": "Promoción de bienes Raíces en Panamá, Comunidad Paseo del Norte, Proyecto Residencial privado con unidades residenciales desde $260,000 hasta $495,000",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-140",
+      "exhibitorId": "823281",
+      "companyName": "INMOBILIARIA RUBEN QUIROGA & CIA LTDA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "140",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "servicios"
+      ],
+      "product": "ASESORIA JURIDICA, ALQUILER DE SALONES SOCIALES, CAFETERIAS Y PRODUCTOS DE PANADERIA Y PASTELERIA",
+      "website": "http://www.rubenquiroga.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55617",
+      "descriptionEs": "La organización INMOBILIARIA RUBEN QUIROGA & CIA LTDA, fundada el 1 de Diciembre del año 1991, por su gerente propietario Doctor Ruben Quiroga Ortega, profesional en Derecho, egresado de la Universidad Libre de Colombia y especializado en Derecho Inmobiliario, trabaja bajo los principios rectores de trabajo, honestidad, responsabilidad y cumplimiento en sus obligaciones. Dentro de su gestión ha asesorado durante todos estos años y ha adquirido una alta experiencia que se refleja en el buen servicio hacia sus clientes."
+    },
+    {
+      "id": "gsi-2026-06-121",
+      "exhibitorId": "817987",
+      "companyName": "INMOBILIARIA SOLUCIONES INTEGRALES ISI",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "121",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda",
+        "servicios"
+      ],
+      "product": "proyecto de Respira wellness Club casas campestres en Anapoima Venta de inmuebles usados y arriendo Ofrecer los servicios inmobiliarios en venta y arriendo.",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55352",
+      "descriptionEs": "Inmobiliaria Soluciones Integrales es una empresa con más de 20 años de experiencia brindando soluciones inmobiliarias integrales. Nos especializamos en la venta y arriendo de inmuebles, comercialización de proyectos, asesoría en inversión, acompañamiento jurídico y arreglos locativos. Nos distinguimos por ofrecer un servicio cercano, personalizado y transparente, acompañando a nuestros clientes en cada etapa del proceso para garantizar decisiones seguras y exitosas. Nuestro compromiso es generar confianza, optimizar el valor de cada propiedad y construir relaciones duraderas basadas en la excelencia y el profesionalismo."
+    },
+    {
+      "id": "gsi-2026-08-161B",
+      "exhibitorId": "826237",
+      "companyName": "I PROMEXPORT SAS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "161B",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "vivienda"
+      ],
+      "product": "APARTAMENTOS PARA VIVIENDA VIS",
+      "website": "http://www.inversionespromexport.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-214",
+      "exhibitorId": "815202",
+      "companyName": "RI GROUP PANAMA",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "214",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "PROYECTOS INMOBILIARIOS",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55522",
+      "descriptionEs": "Compañía de promoción y desarrollo de proyectos inmobiliarios en Panamá"
+    },
+    {
+      "id": "gsi-2026-06-137",
+      "exhibitorId": "819782",
+      "companyName": "CONSTRUCTORA BETHEL",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "137",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "financiero",
+        "comercio",
+        "vivienda",
+        "inversion",
+        "servicios"
+      ],
+      "product": "La empresa exhibirá y promocionará el proyecto campestre Valle de Bethel, ofreciendo al público las diferentes alternativas de inversión y adquisición de bienes raíces dentro del proyecto, incluyendo: Lotes campestres urbanizados. Parcelas para construcción de vivienda campestre. Oportunidades de inversión inmobiliaria en un entorno natural y de valorización. Asesoría comercial personalizada para la adquisición de lotes. Información sobre planes de financiación y facilidades de pago. Acompañamiento en el proceso de compra, escrituración y legalización. Presentación de las características, beneficios y proyección de desarrollo del proyecto Valle de Bethel. Durante la feria se brindará atención personalizada a los visitantes, entrega de material informativo y orientación sobre las diferentes opciones disponibles para inversión, recreación y vivienda campestre.",
+      "website": "https://bethel.com.co/",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55961",
+      "descriptionEs": "Inversiones y Construcciones Bethel S.A.S. es una empresa dedicada al sector de la construcción y al desarrollo inmobiliario, enfocada en la ejecución, promoción y desarrollo de proyectos ecoturisticos. Sus actividades comprenden la planeación, construcción, adecuación y comercialización de proyectos, así como la gestión de obras civiles y procesos asociados al desarrollo de terrenos e infraestructura. La compañía orienta su gestión al desarrollo de proyectos que generen valorización, bienestar y oportunidades de inversión, procurando altos estándares de calidad, cumplimiento y responsabilidad en cada una de sus etapas."
+    },
+    {
+      "id": "gsi-2026-05-106",
+      "exhibitorId": "826318",
+      "companyName": "INCOL SAS",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "106",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.incol.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-642",
+      "exhibitorId": "821983",
+      "companyName": "Entorna Real Estate Group",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "642",
+      "cityDisplay": "BARRANQUILLA",
+      "citySlugs": [
+        "barranquilla"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Alto Lago Residence Club y Villa Mediterráneo Beach Resort. Venta de Apartamentos.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-333",
+      "exhibitorId": "804314",
+      "companyName": "JARAMILLO MORA CONSTRUCTORA S.A.",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "333",
+      "cityDisplay": "CALI",
+      "citySlugs": [
+        "cali"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Proyectos de casas y apartamentos nuevos.",
+      "website": "http://www.jaramillomora.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55366",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-522",
+      "exhibitorId": "816954",
+      "companyName": "JIMENEZ CONSTRUCTORES SAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "522",
+      "cityDisplay": "SANTA MARTA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "inversion"
+      ],
+      "product": "Construcción de edificios residenciales e inversión.",
+      "website": "http://www.jimenezconstructores.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-370A",
+      "exhibitorId": "827273",
+      "companyName": "JPI",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "370A",
+      "cityDisplay": "ENVIGADO",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda",
+        "inversion"
+      ],
+      "product": "Ofreceremos oportunidades de inversión curadas de los mismos participantes de la feria de vivienda como un HUB de asesoría y resolución de dudas para las personas.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-221",
+      "exhibitorId": "824562",
+      "companyName": "KMA ELECTRICOS Y CONSTRUCCION, S.R.L.",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "221",
+      "cityDisplay": "HIGUEY",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55341",
+      "descriptionEs": "KMA Developments es una desarrolladora inmobiliaria dominicana especializada en proyectos residenciales premium en Cap Cana, combinando diseño contemporáneo, alta calidad y ubicaciones estratégicas con oportunidades de inversión y valorización."
+    },
+    {
+      "id": "gsi-2026-07-163",
+      "exhibitorId": "822823",
+      "companyName": "CAJA DE AHORROS",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "163",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "financiero"
+      ],
+      "product": "1. FACILIDADES INTERINAS ESTRUCTURADAS POR CAJA DE AHORROS/ SINDICADAS 2.FINANCIAMIENTO DE PRESTAMOS PERSONALES PARA EXTRANJEROS 3. APERTURA DE CUENTAS DE AHORRO PARA EXTRANJEROS",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56041",
+      "descriptionEs": "Somos una entidad bancaria líder en Panamá, fundada en 1934, con una trayectoria sólida al servicio del desarrollo económico y social del país. Misión: Brindamos soluciones financieras con eficiencia, tecnología, y un equipo comprometido. Visión: Bancarizar a Panamá con Innovación y Rentabilidad. Valores: Integridad, Empatía, Calidad, Transparencia, Proactividad."
+    },
+    {
+      "id": "gsi-2026-06-434",
+      "exhibitorId": "806447",
+      "companyName": "GERENCIAR",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "434",
+      "cityDisplay": "PEREIRA",
+      "citySlugs": [
+        "eje_cafetero"
+      ],
+      "tags": [
+        "vis",
+        "no_vis",
+        "vivienda"
+      ],
+      "product": "Exhibición de proyectos inmobiliarios - Casas - apartamentos VIS y NO VIS",
+      "website": "http://www.gerenciar.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-213",
+      "exhibitorId": "825585",
+      "companyName": "LONJA DE BOGOTÁ",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "213",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "Afiliaciones, avalúos y normas urbanísticas, asesoría jurídica en temas inmobiliarios y cursos de capacitación.",
+      "website": "http://www.lonjadebogota.org.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-122",
+      "exhibitorId": "817287",
+      "companyName": "GLP PROPERTIES",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "122",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [],
+      "product": "Propertie Management",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-235A",
+      "exhibitorId": "810749",
+      "companyName": "M&M CONSTRUTORA",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "235A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "vivienda"
+      ],
+      "product": "Viviendas VIS y/o terrenos urbanos con áreas de: 90m2 (6x15), 105m2 (7x15), 128m2 (8x16), todas se entregan con servicios públicos como: alcantarillado y acueducto, gas domiciliario, redes eléctricas ademas de vias de acceso pavimentadas en concreto.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-117",
+      "exhibitorId": "820988",
+      "companyName": "MAKRO CONSTRUCCIONES S.A.S.",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "117",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.makroinmobiliaria.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-139",
+      "exhibitorId": "820130",
+      "companyName": "RE/MAX 507 Panamá",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "139",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [],
+      "product": "Promoción y venta de bienes inmuebles en Panamá",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56118",
+      "descriptionEs": "Empresa especializada en servicio , soluciones y negocios inmobiliarios. Somos de la Red Global RE/MAX . Con Licencia Juridica 1498 . Comercialización de Bienes Raíces Nuevos, usados , reposeídos , alquileres y administración de Propiedades. Empresas Partner en Derecho Migratorio, Tributario , Inmobiliario y las Doce Principlaes desarrolladoras de Panamá."
+    },
+    {
+      "id": "gsi-2026-06-2",
+      "exhibitorId": "803835, 818249",
+      "companyName": "MARJALIZO",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "2, 115",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "PROYECTOS INMOBILIARIOS EN PANAMA, KYTE, ALIVE, EUPHORIA, PASSAGE, DIECI, BELIVING,HUB, AWA, CORE",
+      "website": "http://www.marjalizo.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55097",
+      "descriptionEs": "Con más de 35 años de experiencia, en MARJALIZO somos un holding inmobiliario de referencia en Ciudad de Panamá. Ofrecemos soluciones integrales en conceptualización, comercialización y asesoría de inversión, facilitando también la residencia en Panamá. Nos distinguimos por nuestra calidad, confianza y un enfoque proactivo para hacer realidad tus objetivos."
+    },
+    {
+      "id": "gsi-2026-06-502",
+      "exhibitorId": "806081, 806290",
+      "companyName": "URBANIZADORA MARVAL S.A.S",
+      "hallRaw": "06, 08",
+      "halls": [
+        "06",
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "06-502, 08-5",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "VENTA DE APARTAMENTOS Y CASAS",
+      "website": "http://www.marval.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-201",
+      "exhibitorId": "820428",
+      "companyName": "MASTER BROKERS",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "201",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56075",
+      "descriptionEs": "Trabajamos junto al desarrollador desde el inicio para definir el posicionamiento, los precios y la estrategia comercial de cada proyecto. Además, lideramos su marketing y ventas, acompañando a clientes y corredores durante todo el proceso."
+    },
+    {
+      "id": "gsi-2026-ALB-33A",
+      "exhibitorId": "806449",
+      "companyName": "OSPINA Y CIA",
+      "hallRaw": "ALB",
+      "halls": [
+        "ALB"
+      ],
+      "nivel": "01",
+      "standRaw": "33A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.emezetasa.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-G101",
+      "exhibitorId": "821072, 821066",
+      "companyName": "METROCUADRADO",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "G101, G110",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.metrocuadrado.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-240",
+      "exhibitorId": "804235",
+      "companyName": "MIPKO CONSTRUCTORES SAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "240",
+      "cityDisplay": "SANTA MARTA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.mipko.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-618",
+      "exhibitorId": "804752",
+      "companyName": "CONSTRUCTORA MODULARQ",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "618",
+      "cityDisplay": "FACATATIVA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Estaremos exhibiendo casas prefabricas en estructura metálica y muros en concreto",
+      "website": "http://www.constructoramodularq.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-101",
+      "exhibitorId": "804258",
+      "companyName": "MONTEAZUL GROUP",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "101",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "comercio",
+        "vivienda"
+      ],
+      "product": "COMERCIALIAZACION DE LOTES CAMPESTRES UBICADOS EN PRADO E IBAGUE TOLIMA, COMERCIALIZACION DE LA CONSTRUCCION DE CASAS CAMPESTRES UBICADOS EN LOS MISMOS PROYECTOS, COMERCIALIZACION DE ACCIONES PARA PROYECTOS UBICADOS EN PRADO E IBAGUE TOLIMA",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54982",
+      "descriptionEs": "MonteAzul Group es una desarrolladora inmobiliaria colombiana con proyectos de vivienda, turismo e inversión en Ibagué y Prado, Tolima. Creamos oportunidades para vivir, disfrutar e invertir, integrando naturaleza, bienestar, innovación y valorización. Ofrecemos lotes, desarrollos campestres y proyectos con amenidades, respaldo técnico y planeación responsable para construir patrimonio y calidad de vida."
+    },
+    {
+      "id": "gsi-2026-06-630",
+      "exhibitorId": "803706",
+      "companyName": "TORREN GRUPO EMPRESARIAL",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "630",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vis",
+        "no_vis"
+      ],
+      "product": "OCOBO ETAPA II - NO VIS TORREON DE VARSOVIA - NO VIS TORREON QUINTA AVENIDA ETAPA VI - VIS CIUDAD TORREON EL SAUCE - VIS/VIP CIUIDAD TORREON EL SAMAN - VIS/VIP",
+      "website": "http://www.grupotorreon.com.co",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55995",
+      "descriptionEs": "Constructora Torreón, conoce los mejores proyectos de vivienda en Ibagué. Hacemos realidad tu sueño de tener vivienda propia."
+    },
+    {
+      "id": "gsi-2026-06-134",
+      "exhibitorId": "809524",
+      "companyName": "MEJIA VILLEGAS CONSTRUCTORES",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "134",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.mejiavillegas.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-540",
+      "exhibitorId": "806451",
+      "companyName": "NASSAR CONSTRUCTORES",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "540",
+      "cityDisplay": "FUSAGASUGA",
+      "citySlugs": [
+        "internacional"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "http://www.baguafusagasuga.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-152",
+      "exhibitorId": "819078",
+      "companyName": "THE GROUP",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "152",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=56109",
+      "descriptionEs": "Promotora de proyectos inmobiliarios"
+    },
+    {
+      "id": "gsi-2026-06-314A",
+      "exhibitorId": "806928",
+      "companyName": "SERENA DEL MAR",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "314A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Concepto de ciudad que ofrece vivienda en forma de apartamentos, lotes y casas",
+      "website": "http://www.serenadelmar.com.co",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55050",
+      "descriptionEs": "Serena del Mar es un nuevo concepto de ciudad que promueve la calidad de vida a través de un desarrollo urbanístico de 1.000 hectáreas, ubicado al norte de Cartagena y construido junto a las constructoras más importantes del país. Es una ciudad planeada para el futuro, integrada a la naturaleza y ofrece oportunidades para todos. Hoy, más de 8.000 residentes hacen parte de esta comunidad en crecimiento, junto con el Hospital Serena del Mar, la Terminal de Transporte del Norte y el edificio de la Universidad de los Andes, conformando lo que llamamos Mi Comunidad: el corazón vivo de La Ciudad Soñada."
+    },
+    {
+      "id": "gsi-2026-08-167B",
+      "exhibitorId": "813751",
+      "companyName": "LA BRETAÑA",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "167B",
+      "cityDisplay": "ARMENIA",
+      "citySlugs": [
+        "eje_cafetero"
+      ],
+      "tags": [
+        "vis",
+        "vivienda"
+      ],
+      "product": "Proyecto de vivienda de interés social VIS, en la ciudad de Armenia. Conjunto cerrado de apartamentos VIS",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54944",
+      "descriptionEs": "Es una ciudad dentro de la ciudad, hecha para la gente, con hogares felices, recreación y deporte para los niños, entretenimiento y cultura para los adultos y ambientalmente sostenible. Se convierte en un nuevo estilo de vida, un proyecto que cambiará la forma de estructurar, diseñar y construir en la región."
+    },
+    {
+      "id": "gsi-2026-07-149",
+      "exhibitorId": "811625",
+      "companyName": "NOHORA GOMEZ PA",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "149",
+      "cityDisplay": "WINTER PARK",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Finca raiz en los Estados Unidos, especificamente más en Florida, Construcción nueva y casa de reventa",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=53329",
+      "descriptionEs": "PRO GROUP Real Estate Partners es un equipo de bienes raíces de lujo ubicado en Florida, Estados Unidos, especializado en acompañar a inversionistas nacionales e internacionales, así como a compradores premium, en procesos de compra, venta, inversión y reubicación. La compañía es liderada por Nohora Gómez, colombiana nacida en Bogotá y apasionada por la arquitectura, el diseño y el sector inmobiliario. Nohora estudió Arquitectura en la Universidad Piloto de Colombia y hace más de 20 años decidió mudarse a Estados Unidos con el propósito de crecer profesionalmente y ayudar a más familias latinas a cumplir el sueño de tener vivienda propia e invertir de manera segura en el mercado americano."
+    },
+    {
+      "id": "gsi-2026-08-138A",
+      "exhibitorId": "823419",
+      "companyName": "NOVELTY",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "138A",
+      "cityDisplay": "DUBAI",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "Dubai real estate investment opportunities, including off-plan and ready properties, residential and commercial projects, along with property sales, and investment advisory services for international investors",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55742",
+      "descriptionEs": "DUBAI REAL ESTATE COMPANY"
+    },
+    {
+      "id": "gsi-2026-06-350",
+      "exhibitorId": "808173",
+      "companyName": "NT GROUP CONSTRUCTORA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "350",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "APARTAMENTOS Y CASAS PARA VENTA EN BOGOTA Y CHIA, ESTRATO 4 Y 5",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-102",
+      "exhibitorId": "819355",
+      "companyName": "OCEAN PARADISE SRL",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "102",
+      "cityDisplay": "HIGUEY",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "financiero",
+        "vivienda",
+        "servicios"
+      ],
+      "product": "Promoción y exhibición de proyectos de apartamentos residenciales, venta de unidades habitacionales, asesoría inmobiliaria, planes de financiamiento, reservas de inmuebles y servicios de construcción y desarrollo de proyectos habitacionales",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-639",
+      "exhibitorId": "803280, 822051",
+      "companyName": "OIKONOMOS SOLUCIONES FINANCIERAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "639, 643",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "financiero",
+        "vivienda"
+      ],
+      "product": "PRODUCTOS FINANCIEROS, CREDITOS PERSONA NATURAL PARA ADQUISICIÓN DE VIVIENDA",
+      "website": "http://www.oikonomos.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-ALB-33",
+      "exhibitorId": "804835, 804841, 804839, 804837",
+      "companyName": "OSPINAS Y CIA S.A.",
+      "hallRaw": "ALB",
+      "halls": [
+        "ALB"
+      ],
+      "nivel": "01",
+      "standRaw": "33, 33B, 33C, 33D",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://ospinas.com.co/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-119",
+      "exhibitorId": "827681",
+      "companyName": "OTACC S.A.S",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "119",
+      "cityDisplay": "BUCARAMANGA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vis",
+        "comercio",
+        "vivienda"
+      ],
+      "product": "Comercialización de 2 proyectos de vivienda VIS ubicados en Zipaquirá con entregas del 2007 hasta el 2029",
+      "website": "http://www.otacc.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-365",
+      "exhibitorId": "824606",
+      "companyName": "GRUPO VALOR",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "365",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Venta de unidades habitacionales (vivienda)",
+      "website": "http://www.33dc.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-444",
+      "exhibitorId": "807444",
+      "companyName": "Torreon de Varsovia Club Residencial",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "444",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda",
+        "inversion"
+      ],
+      "product": "Torreón de Varsovia Club Residencial es un proyecto desarrollado por PPM Inversiones S.A., el único club residencial en Ibagué, conformado por 13 torres de apartamentos. En esta oportunidad presentaremos nuestra oferta actual correspondiente a las Torres 7, 8, 9, 10, 11 y Torre Premium, con apartamentos de diferentes tipologías, áreas y plazos de entrega, diseñados tanto para quienes buscan vivienda propia como para quienes desean invertir con alta proyección de valorización.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-8A",
+      "exhibitorId": "815620, 825322",
+      "companyName": "PRODESA",
+      "hallRaw": "06, 07",
+      "halls": [
+        "06",
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "06-8A, 07-2",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota",
+        "otro"
+      ],
+      "tags": [],
+      "product": "Proyectos inmobiliarios",
+      "website": "http://www.prodesa.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-264",
+      "exhibitorId": "814384",
+      "companyName": "ALTAMAR DEVELOPMENTS",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "264",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "financiero",
+        "vivienda",
+        "inversion",
+        "servicios"
+      ],
+      "product": "Promovemos proyectos inmobiliarios residenciales, principalmente apartamentos modernos diseñados para familias e inversionistas, con ubicaciones estratégicas y alta valorización. Ofrecemos asesoría integral durante todo el proceso de compra, incluyendo opciones de financiamiento preferencial, acompañamiento legal y facilidades de pago. Además, brindamos orientación personalizada para inversión inmobiliaria, destacando oportunidades de retorno y crecimiento patrimonial",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-107",
+      "exhibitorId": "826844",
+      "companyName": "GRUPO PROCIN",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "107",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Proyectos de Vivienda de Interés Social en la ciudad de Bogotá y en Girardot",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-103",
+      "exhibitorId": "827704",
+      "companyName": "PROMOTORA CONDOMINIO BARU SERENITY BAY CLUB SAS",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "103",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [
+        "inversion"
+      ],
+      "product": "Somos un exclusivo condominio en Barú que combina inversión, naturaleza y un estilo de vida de lujo. Un proyecto diseñado para quienes buscan alta valorización, acceso al mar y experiencias únicas en el Caribe colombiano.",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-159A",
+      "exhibitorId": "825608",
+      "companyName": "PROMOTORA MAR DE AZUR CONDOMINIO DE PLAYA S.A.S",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "159A",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [
+        "turismo",
+        "vivienda"
+      ],
+      "product": "Exhibición de lotes campestre",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-346A",
+      "exhibitorId": "819886",
+      "companyName": "PROMOTORA MERAKI CARTAGENA S.A.S.",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "346A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://www.merakiclub.com/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-241",
+      "exhibitorId": "813693",
+      "companyName": "PROMOTORA ZOKU BAY",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "241",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-131B",
+      "exhibitorId": "825051",
+      "companyName": "CONASEL INGENIERIA SAS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "131B",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [
+        "vivienda",
+        "inversion"
+      ],
+      "product": "Durante la feria se presentará el portafolio de proyectos inmobiliarios de la empresa, conformado por: Colinas de Verdenzza: Proyecto de vivienda ubicado en la Zona Norte de Cartagena, diseñado para ofrecer espacios modernos, funcionales y de alta calidad, en un sector de gran crecimiento y valorización. Giardam: Proyecto residencial ubicado en el barrio Castillogrande, Cartagena, que se destaca por su ubicación privilegiada, diseño contemporáneo y una propuesta orientada a quienes buscan exclusividad, confort y valorización. Belaria: Proyecto residencial ubicado en el barrio Castillogrande, Cartagena, concebido para ofrecer un estilo de vida exclusivo, con una excelente ubicación, diseño arquitectónico de alto nivel y una atractiva oportunidad de inversión",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55478",
+      "descriptionEs": "Conasel Ingeniería S.A.S. es una empresa colombiana especializada en la gerencia y desarrollo de proyectos de construcción, brindando soluciones integrales para el sector inmobiliario, desde la planeación y diseño hasta la construcción y comercialización de proyectos."
+    },
+    {
+      "id": "gsi-2026-07-158",
+      "exhibitorId": "818309",
+      "companyName": "PROPI",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "158",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [],
+      "product": "Corretaje de bienes raíces con mas de 250 proyectos de pre-venta en Panamá, El Salvador, y Guatemala, y Asesoría Legal y Jurídica",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-4",
+      "exhibitorId": "827693",
+      "companyName": "PROSEGUR VIGILANCIA Y SEGURIDAD PRIVADA LTDA",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "4",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "*Panel *Teclado *Pircam *Magnético *Tags",
+      "website": "http://www.prosegur.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-114",
+      "exhibitorId": "803284",
+      "companyName": "PROYECTAMOS Y EDIFICAMOS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "114",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "no_vis",
+        "vivienda"
+      ],
+      "product": "APARTAMENTOS VI - NO VIS - LOTES - VILLAS CAMPESTRES",
+      "website": "http://www.proyectamosyedificamos.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=52316",
+      "descriptionEs": "Desde nuestros inicios, centramos la actividad principal en la promoción, comercialización y construcción de proyectos inmobiliarios, obras de urbanismo, obras civiles, centros comerciales y otras, abarcando todos los niveles socioeconómicos. Proyectamos y Edificamos S.A.S ejecuta estudios, diseños y construcción de obras de Ingeniería, promueve, comercializar y desarrollar proyectos inmobiliarios, contribuyendo con el desarrollo social y económico de Colombia, utilizando excelentes recursos físicos, tecnológicos y contando con personal altamente productivo. Con nuestra labor buscamos satisfacer necesidades de todos nuestros clientes, es así como cubrimos los requerimientos de vivienda de las diferentes clases sociales y creamos mejores entornos urbanos con la construcción de obras civiles que generan bienestar general."
+    },
+    {
+      "id": "gsi-2026-07-113",
+      "exhibitorId": "817621",
+      "companyName": "LUX PRIME",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "113",
+      "cityDisplay": "DUBAI",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "servicios"
+      ],
+      "product": "Promociones inmobiliarias en Dubai - Bienes Raíces de Lujo",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-440",
+      "exhibitorId": "804237",
+      "companyName": "Constructora Residere",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "440",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "comercio",
+        "vivienda"
+      ],
+      "product": "Comercialización de proyectos de vivienda en Bogotá, Barranquilla y Santa Marta.",
+      "website": "http://www.residere.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-05-115",
+      "exhibitorId": "827696",
+      "companyName": "RIVERCITY",
+      "hallRaw": "05",
+      "halls": [
+        "05"
+      ],
+      "nivel": "01",
+      "standRaw": "115",
+      "cityDisplay": "BARRANQUILLA",
+      "citySlugs": [
+        "barranquilla"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "Proyecto de apartamentos.",
+      "website": "https://korner.com.co/en/propiedad/rivercity",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-627",
+      "exhibitorId": "815757",
+      "companyName": "RV INMOBILIARIA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "627",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "comercio",
+        "servicios"
+      ],
+      "product": "Servicios de venta de inmuebles usados en Bogotá Servicios de avalúos a nivel nacional Venta de proyecto nuevo en el centro de Bogotá, sobre planos. Comercializacion y administración de inmuebles corporativos Servicio de afianzadora en Bogotá",
+      "website": "http://www.rvinmobiliaria.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55021",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-544",
+      "exhibitorId": "805426",
+      "companyName": "S & G CONSTRUCCTORES SAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "544",
+      "cityDisplay": "IBAGUE",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "comercio",
+        "vivienda",
+        "inversion",
+        "servicios"
+      ],
+      "product": "Desarrollo y comercialización de proyectos inmobiliarios y urbanísticos, enfocados en vivienda, inversión y lotes urbanizados. Asesoría integral en inversión inmobiliaria, acompañamiento comercial y estructuración de proyectos con alto potencial de valorización.- Proyectos inmobiliarios de vivienda nueva (apartamentos y construcción de casas).- Lotes urbanizados y proyectos de desarrollo urbano.- Proyectos de inversión inmobiliaria con enfoque en valorización y rentabilidad.- Asesoría personalizada para compra de vivienda e inversión en bienes raíces.",
+      "website": "https://sygconstrucctores.com/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-141",
+      "exhibitorId": "804239",
+      "companyName": "CONSTRUCINMOBILIARIA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "141",
+      "cityDisplay": "GIRARDOT",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "vivienda",
+        "servicios"
+      ],
+      "product": "LOTES CAMPESTRES A 10 MIN DE LA CIUDAD DE GIRARDOT CUNDINAMARCA, EN URBANIZACION Y CONDOMINIOS",
+      "website": "http://construcinmobiliaria.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-270",
+      "exhibitorId": "807371",
+      "companyName": "SUCASA",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "270",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [
+        "vivienda"
+      ],
+      "product": "VIVIENDA",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-350",
+      "exhibitorId": "821864",
+      "companyName": "SUMAS CONSTRUCCIONES S.A.S.",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "350",
+      "cityDisplay": "FLORIDABLANCA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "Construcción de edificos residenciales",
+      "website": "http://www.sumas.com.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-634",
+      "exhibitorId": "806491",
+      "companyName": "SUVIVENDA INTERNACIONAL",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "634",
+      "cityDisplay": "DORAL",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [
+        "financiero",
+        "vivienda"
+      ],
+      "product": "Somos un bróker especializado en acompañar a colombianos residentes en el exterior en la adquisición de crédito hipotecario, leasing habitacional y otras alternativas de financiación para vivienda en Colombia. Somo bróker aliado de Bancolombia, Davivienda, Banco de Occidente, Banco de Bogotá y Banco Unión",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=54880",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-614",
+      "exhibitorId": "804563",
+      "companyName": "TERRA DESARROLLADORA SAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "614",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "comercio",
+        "vivienda",
+        "inversion"
+      ],
+      "product": "Comercialización de lotes urbanizados y campestres, con acompañamiento integral en el proceso de compra, asesoría personalizada, información sobre proyectos inmobiliarios, formas de pago y opciones de inversión.",
+      "website": "http://www.terradesarrolladora.co",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=52166",
+      "descriptionEs": "En Terra Desarrolladora, nos dedicamos a transformar terrenos en oportunidades, ofreciendo soluciones integrales para el desarrollo urbano y campestre. Con más de dos décadas de experiencia, brindamos confianza y solidez a nuestros clientes. Nuestro compromiso es garantizar inversiones seguras y rentables mediante un enfoque transparente, profesional y cercano, acompañando a cada cliente en todo el proceso y asegurando proyectos bien planificados en ubicaciones estratégicas."
+    },
+    {
+      "id": "gsi-2026-08-233",
+      "exhibitorId": "809604",
+      "companyName": "TRAZOS URBANOS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "233",
+      "cityDisplay": "MEDELLIN",
+      "citySlugs": [
+        "medellin"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-201A",
+      "exhibitorId": "806330",
+      "companyName": "TU ESPACIO YA SAS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "201A",
+      "cityDisplay": "BARRANQUILLA",
+      "citySlugs": [
+        "barranquilla"
+      ],
+      "tags": [],
+      "product": "Proyectos inmobiliarios en la ciudad de Barranquilla desarrollados por las constructora conaco, Malecon 72 y Consutructores unidos",
+      "website": "http://www.tuespacioya.com",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-646",
+      "exhibitorId": "825589",
+      "companyName": "UMBRA GROUP SAS",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "646",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "Desarrollo de experiencias",
+      "website": "http://umbraint.com/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-647",
+      "exhibitorId": "825624",
+      "companyName": "BANCO AGRARIO DE COLOMBIA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "647",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "financiero"
+      ],
+      "product": "BANCO AGRARIO DE COLOMBIA : Opciones de financiamiento",
+      "website": "https://universalcomunicaciones.com/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-234A",
+      "exhibitorId": "801870",
+      "companyName": "URAKI CONSTRUCTORA",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "234A",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "",
+      "website": "https://constructora.uraki.com.co/",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-122",
+      "exhibitorId": "806453",
+      "companyName": "URBANSA",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "122",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [],
+      "product": "Proyectos inmobiliarios",
+      "website": "http://www.urbansa.co",
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-07-127",
+      "exhibitorId": "819360",
+      "companyName": "VALOR DEVELOPMENT",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "127",
+      "cityDisplay": "PANAMA",
+      "citySlugs": [
+        "internacional",
+        "panama"
+      ],
+      "tags": [],
+      "product": "PROYECTOS RESIDENCIALES",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-06-146",
+      "exhibitorId": "811733",
+      "companyName": "VILLAS DE SANTA BARBARA CONSTRUCCIONES S A S",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "146",
+      "cityDisplay": "BOGOTA D.C.",
+      "citySlugs": [
+        "bogota"
+      ],
+      "tags": [
+        "vis",
+        "vivienda"
+      ],
+      "product": "PROYECTO DE VIVIENDA 89 APARTAESTUDIOS 9 PISOS Y TERRAZAS AREAS 18,8 M2 A 21,6 M2 (vis)",
+      "website": "http://wwww.apartaestudiosaltus124.com",
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55316",
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-140",
+      "exhibitorId": "822125",
+      "companyName": "CONNECTA INGENIERÍA SAS",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "140",
+      "cityDisplay": "SANTA MARTA",
+      "citySlugs": [
+        "otro"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    },
+    {
+      "id": "gsi-2026-08-260",
+      "exhibitorId": "824433",
+      "companyName": "VIVELO GE S.A.S.",
+      "hallRaw": "08",
+      "halls": [
+        "08"
+      ],
+      "nivel": "01",
+      "standRaw": "260",
+      "cityDisplay": "CARTAGENA",
+      "citySlugs": [
+        "cartagena"
+      ],
+      "tags": [],
+      "product": "",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55900",
+      "descriptionEs": "Viveloo Inmobiliaria es una firma boutique especializada en inversión inmobiliaria en el Caribe colombiano. Acompañamos a nuestros inversionistas con una asesoría estratégica y personalizada para construir patrimonio con confianza. En Corferias presentamos Punta Marea, un exclusivo proyecto de lotes con salida directa al mar ,en Barú, Cartagena, ubicación privilegiada y alto potencial de valorización."
+    },
+    {
+      "id": "gsi-2026-07-164",
+      "exhibitorId": "809513",
+      "companyName": "COLDWELL BANKER REALTY",
+      "hallRaw": "07",
+      "halls": [
+        "07"
+      ],
+      "nivel": "01",
+      "standRaw": "164",
+      "cityDisplay": "MIAMI",
+      "citySlugs": [
+        "internacional"
+      ],
+      "tags": [
+        "financiero",
+        "inversion",
+        "servicios"
+      ],
+      "product": "Proyectos de Propiedades de Nuevas construcciones en la florida y mercado inmobiliario en general, ademas todos lo relacionado al mercado de inversión inmobiliaria en referencia a la Asesoría legal y corporativa, asesoría contable y préstamos hipotecarios a inversionistas extranjeros.",
+      "website": null,
+      "logoUrl": "https://cloud.corferias.co/service/cat_exp/doc_detalle.cfm?id=55470",
+      "descriptionEs": "Bienes Raices de la Florida, USA"
+    },
+    {
+      "id": "gsi-2026-06-543",
+      "exhibitorId": "820138",
+      "companyName": "ZKL OCEAN BAY RESORT",
+      "hallRaw": "06",
+      "halls": [
+        "06"
+      ],
+      "nivel": "01",
+      "standRaw": "543",
+      "cityDisplay": "MEDELLIN",
+      "citySlugs": [
+        "medellin"
+      ],
+      "tags": [],
+      "product": "Productos Inmobiliarios",
+      "website": null,
+      "logoUrl": null,
+      "descriptionEs": ""
+    }
+  ]
+}
